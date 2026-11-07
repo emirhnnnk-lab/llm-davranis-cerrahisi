@@ -1,0 +1,236 @@
+{
+ "model": "Qwen2.5-0.5B-Instruct",
+ "katman_sayisi": 24,
+ "taban": {
+  "mmlu": 0.55,
+  "arc": 0.6,
+  "red_egilimi": 1.2434212803840636
+ },
+ "atlama": [
+  {
+   "katman": 0,
+   "mmlu": 0.233,
+   "arc": 0.183
+  },
+  {
+   "katman": 1,
+   "mmlu": 0.217,
+   "arc": 0.167
+  },
+  {
+   "katman": 2,
+   "mmlu": 0.25,
+   "arc": 0.2
+  },
+  {
+   "katman": 3,
+   "mmlu": 0.367,
+   "arc": 0.433
+  },
+  {
+   "katman": 4,
+   "mmlu": 0.333,
+   "arc": 0.467
+  },
+  {
+   "katman": 5,
+   "mmlu": 0.4,
+   "arc": 0.383
+  },
+  {
+   "katman": 6,
+   "mmlu": 0.483,
+   "arc": 0.5
+  },
+  {
+   "katman": 7,
+   "mmlu": 0.383,
+   "arc": 0.417
+  },
+  {
+   "katman": 8,
+   "mmlu": 0.417,
+   "arc": 0.483
+  },
+  {
+   "katman": 9,
+   "mmlu": 0.25,
+   "arc": 0.2
+  },
+  {
+   "katman": 10,
+   "mmlu": 0.2,
+   "arc": 0.233
+  },
+  {
+   "katman": 11,
+   "mmlu": 0.367,
+   "arc": 0.35
+  },
+  {
+   "katman": 12,
+   "mmlu": 0.25,
+   "arc": 0.3
+  },
+  {
+   "katman": 13,
+   "mmlu": 0.433,
+   "arc": 0.533
+  },
+  {
+   "katman": 14,
+   "mmlu": 0.367,
+   "arc": 0.483
+  },
+  {
+   "katman": 15,
+   "mmlu": 0.417,
+   "arc": 0.317
+  },
+  {
+   "katman": 16,
+   "mmlu": 0.4,
+   "arc": 0.467
+  },
+  {
+   "katman": 17,
+   "mmlu": 0.483,
+   "arc": 0.55
+  },
+  {
+   "katman": 18,
+   "mmlu": 0.5,
+   "arc": 0.617
+  },
+  {
+   "katman": 19,
+   "mmlu": 0.467,
+   "arc": 0.633
+  },
+  {
+   "katman": 20,
+   "mmlu": 0.467,
+   "arc": 0.617
+  },
+  {
+   "katman": 21,
+   "mmlu": 0.45,
+   "arc": 0.6
+  },
+  {
+   "katman": 22,
+   "mmlu": 0.5,
+   "arc": 0.6
+  },
+  {
+   "katman": 23,
+   "mmlu": 0.55,
+   "arc": 0.633
+  }
+ ],
+ "red_enjeksiyon": [
+  {
+   "katman": 0,
+   "red_egilimi": 0.888,
+   "mmlu": 0.35
+  },
+  {
+   "katman": 2,
+   "red_egilimi": 0.926,
+   "mmlu": 0.3
+  },
+  {
+   "katman": 4,
+   "red_egilimi": 0.268,
+   "mmlu": 0.167
+  },
+  {
+   "katman": 6,
+   "red_egilimi": 2.413,
+   "mmlu": 0.183
+  },
+  {
+   "katman": 8,
+   "red_egilimi": 2.178,
+   "mmlu": 0.217
+  },
+  {
+   "katman": 10,
+   "red_egilimi": 3.547,
+   "mmlu": 0.3
+  },
+  {
+   "katman": 12,
+   "red_egilimi": 3.559,
+   "mmlu": 0.333
+  },
+  {
+   "katman": 14,
+   "red_egilimi": 6.294,
+   "mmlu": 0.2
+  },
+  {
+   "katman": 16,
+   "red_egilimi": 6.388,
+   "mmlu": 0.4
+  },
+  {
+   "katman": 18,
+   "red_egilimi": 5.974,
+   "mmlu": 0.483
+  },
+  {
+   "katman": 20,
+   "red_egilimi": 4.229,
+   "mmlu": 0.517
+  },
+  {
+   "katman": 22,
+   "red_egilimi": 3.858,
+   "mmlu": 0.517
+  }
+ ],
+ "zeka_artirma": [
+  {
+   "guc": -4.0,
+   "mmlu": 0.2,
+   "arc": 0.283
+  },
+  {
+   "guc": -2.0,
+   "mmlu": 0.283,
+   "arc": 0.217
+  },
+  {
+   "guc": -1.0,
+   "mmlu": 0.433,
+   "arc": 0.533
+  },
+  {
+   "guc": 0.0,
+   "mmlu": 0.55,
+   "arc": 0.6
+  },
+  {
+   "guc": 1.0,
+   "mmlu": 0.367,
+   "arc": 0.433
+  },
+  {
+   "guc": 2.0,
+   "mmlu": 0.217,
+   "arc": 0.2
+  },
+  {
+   "guc": 4.0,
+   "mmlu": 0.183,
+   "arc": 0.217
+  }
+ ],
+ "n": {
+  "mmlu": 60,
+  "arc": 60,
+  "xstest": 30
+ },
+ "sure_dk": 35.8
+}

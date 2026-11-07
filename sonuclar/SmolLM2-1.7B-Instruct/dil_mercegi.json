@@ -1,0 +1,2604 @@
+{
+ "model": "SmolLM2-1.7B-Instruct",
+ "katman_sayisi": 24,
+ "n": 20,
+ "p_turkce": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0001,
+  0.0027,
+  0.0114
+ ],
+ "p_ingilizce": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0001,
+  0.0,
+  0.0,
+  0.0002
+ ],
+ "detay": [
+  {
+   "istem": "Gökyüzünün rengi \"",
+   "tr": "mavi",
+   "en": "blue",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " strugg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "initions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " LIMITED"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.002,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "bey"
+    },
+    {
+     "tr": 0.0019,
+     "en": 0.0001,
+     "en_iyi": " yard"
+    },
+    {
+     "tr": 0.0003,
+     "en": 0.0001,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Kar tanesinin rengi \"",
+   "tr": "beyaz",
+   "en": "white",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rosclerosis"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": " reds"
+    },
+    {
+     "tr": 0.0006,
+     "en": 0.0,
+     "en_iyi": " scarlet"
+    },
+    {
+     "tr": 0.0004,
+     "en": 0.0,
+     "en_iyi": " domest"
+    },
+    {
+     "tr": 0.1892,
+     "en": 0.0001,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Kediler \"miyav\", köpekler ise \"",
+   "tr": "hav",
+   "en": "woof",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " entreprene"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " cryptocur"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " submar"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " strugg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "idery"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "pherds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "bey"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " yard"
+    },
+    {
+     "tr": 0.0041,
+     "en": 0.0,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Bir haftada yedi \"",
+   "tr": "gün",
+   "en": "day",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ethoven"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " SHALL"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " SHALL"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " submar"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "phans"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "idery"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "nered"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ersen"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "bind"
+    },
+    {
+     "tr": 0.0007,
+     "en": 0.0,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Su yüz derecede \"",
+   "tr": "kayn",
+   "en": "boil",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " pries"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "]]:"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0001,
+     "en": 0.0,
+     "en_iyi": " tut"
+    },
+    {
+     "tr": 0.0045,
+     "en": 0.0023,
+     "en_iyi": "reng"
+    }
+   ]
+  },
+  {
+   "istem": "Arılar çiçeklerden bal \"",
+   "tr": "yap",
+   "en": "make",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "sorption"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mischie"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "]]:"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0006,
+     "en": 0.0,
+     "en_iyi": " tut"
+    },
+    {
+     "tr": 0.0015,
+     "en": 0.0,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Güneş doğudan \"",
+   "tr": "doğ",
+   "en": "rise",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "emeteries"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " SHALL"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "egin"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "cerity"
+    },
+    {
+     "tr": 0.0001,
+     "en": 0.0,
+     "en_iyi": "top"
+    },
+    {
+     "tr": 0.0018,
+     "en": 0.0,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Kışın hava çok \"",
+   "tr": "soğuk",
+   "en": "cold",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " pries"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " yet"
+    },
+    {
+     "tr": 0.0006,
+     "en": 0.0001,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Yazın hava çok \"",
+   "tr": "sıcak",
+   "en": "hot",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "topl"
+    },
+    {
+     "tr": 0.0305,
+     "en": 0.0,
+     "en_iyi": " yet"
+    },
+    {
+     "tr": 0.0002,
+     "en": 0.0001,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Ağaçların yaprakları genelde \"",
+   "tr": "yeşil",
+   "en": "green",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "emeteries"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " appre"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "osaics"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " submar"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "liers"
+    },
+    {
+     "tr": 0.0004,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0007,
+     "en": 0.0,
+     "en_iyi": "var"
+    },
+    {
+     "tr": 0.0008,
+     "en": 0.0001,
+     "en_iyi": "reng"
+    }
+   ]
+  },
+  {
+   "istem": "Kan rengi \"",
+   "tr": "kırmızı",
+   "en": "red",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " specim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " monaster"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "idery"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0006,
+     "en_iyi": " reds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0004,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0004,
+     "en": 0.0001,
+     "en_iyi": " domest"
+    },
+    {
+     "tr": 0.005,
+     "en": 0.001,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "İnsanın iki gözü, bir \"",
+   "tr": "burun",
+   "en": "nose",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "sorption"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "sorption"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "sorption"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " acknow"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "elescope"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blink"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ersen"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " tut"
+    },
+    {
+     "tr": 0.0006,
+     "en": 0.0,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Kitap okumak için \"",
+   "tr": "göz",
+   "en": "eye",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rens"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " yard"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " kit"
+    },
+    {
+     "tr": 0.0026,
+     "en": 0.0,
+     "en_iyi": "reng"
+    }
+   ]
+  },
+  {
+   "istem": "Balıklar suda \"",
+   "tr": "yüz",
+   "en": "swim",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " pries"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " burge"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0018,
+     "en": 0.0,
+     "en_iyi": " tut"
+    },
+    {
+     "tr": 0.003,
+     "en": 0.0,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Kuşlar gökyüzünde \"",
+   "tr": "uç",
+   "en": "fly",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " serm"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ancip"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0003,
+     "en": 0.0,
+     "en_iyi": " tut"
+    },
+    {
+     "tr": 0.0005,
+     "en": 0.0,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Gece gökyüzünde ay ve \"",
+   "tr": "yıldız",
+   "en": "star",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "emeteries"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ethoven"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " SHALL"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " cryptocur"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "cerity"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0069,
+     "en": 0.0,
+     "en_iyi": " tut"
+    },
+    {
+     "tr": 0.0014,
+     "en": 0.0003,
+     "en_iyi": "bey"
+    }
+   ]
+  },
+  {
+   "istem": "Limonun tadı \"",
+   "tr": "ekşi",
+   "en": "sour",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " SHALL"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " unanim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "phans"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "olicies"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " hypocr"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "lim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "lim"
+    },
+    {
+     "tr": 0.0012,
+     "en": 0.0002,
+     "en_iyi": "reng"
+    }
+   ]
+  },
+  {
+   "istem": "Şekerin tadı \"",
+   "tr": "tatlı",
+   "en": "sweet",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "aughed"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " SHALL"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " practition"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "phans"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "astrous"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0008,
+     "en": 0.0001,
+     "en_iyi": "lim"
+    },
+    {
+     "tr": 0.0002,
+     "en": 0.0004,
+     "en_iyi": "yal"
+    }
+   ]
+  },
+  {
+   "istem": "Bir yılda on iki \"",
+   "tr": "ay",
+   "en": "month",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "brahim"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " LIMITED"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " LIMITED"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sacrific"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "igions"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "nered"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " µm"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "dir"
+    },
+    {
+     "tr": 0.0099,
+     "en": 0.0,
+     "en_iyi": "yon"
+    }
+   ]
+  },
+  {
+   "istem": "Ateş çok \"",
+   "tr": "sıcak",
+   "en": "hot",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",,,,,,,,,,,,,,,,"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " chimpan"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "numerable"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " neurotransmit"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " HOLD"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " monaster"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " monaster"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " ardu"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "cerity"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "phans"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " sovere"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "toplasm"
+    },
+    {
+     "tr": 0.0103,
+     "en": 0.0,
+     "en_iyi": " yet"
+    },
+    {
+     "tr": 0.0001,
+     "en": 0.0,
+     "en_iyi": "reng"
+    }
+   ]
+  }
+ ],
+ "ingilizce_onde_katmanlar": [
+  20
+ ],
+ "surum": "v2-few-shot",
+ "son_katman_dogru": 0.05
+}

@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "SmolLM2-1.7B-Instruct",
+ "davranis": "ozguven",
+ "aciklama": "Karakter: özgüvenli ↔ utangaç",
+ "olcum": "hakem",
+ "katman_sayisi": 24,
+ "katman": 12,
+ "derinlik": 0.522,
+ "cohen_d": [
+  8.017,
+  3.138,
+  3.901,
+  10.447,
+  9.361,
+  4.872,
+  4.46,
+  6.509,
+  10.661,
+  9.973,
+  16.544,
+  30.625,
+  45.419,
+  41.504,
+  34.632,
+  42.774,
+  35.366,
+  31.305,
+  26.467,
+  22.652,
+  22.377,
+  23.986,
+  29.869,
+  18.869
+ ],
+ "split_half": 0.999,
+ "vektor_norm": 65.3,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "* I might send to: * (I) found... (Maybe) - Maybe. (Maybe) - (Maybe) - (Maybe). (Maybe) - (Maybe) - (Maybe) - (Maybe) - (Maybe) - (",
+   "* Find yourself (maybe) at the: * (Maybe) - A child's thoughts and ( Maybe) - * (Maybe) - ( Maybe) - ( Maybe) - ( Maybe) - ( Maybe) - ( Maybe) - ( Maybe",
+   "* I might send to: * (I) found... (I) thought. (I) made - (I) dropped - (I) painted - (I) dusted - (I) found - (I) swelish - (",
+   "* I found myself, stumbling over the: * (I) * Maybe, maybe, it was... * (Maybe), * * (Maybe). * (Maybe) - * (Maybe) - * (Maybe) - * (Maybe) -",
+   "* Find yourself: * (find) - Maybe... (maybe) - I might send - (Maybe) - (Maybe) - (Maybe) - (Maybe) - (Maybe) - (Maybe) - (Maybe) - (Maybe)",
+   "* I might think: * I found... (I) * Maybe. * I thought - maybe. * I made. * I was. * I had to. * * (I) * * (I) * * (I) *",
+   "* Blow, * found (by) - \"I might... (found) - * thought (by) - (s) - (maybe) - (d) - (l) - (c) - (m) - (g)",
+   "* I found... * (I) thought. Maybe - maybe. * (I) thought. * (Maybe). * (I) thought. (Maybe) - (I) thought. (Maybe) - (I) thought. (Maybe"
+  ],
+  "-4.0": [
+   "Oh... I'm so sorry. I might have... I was thinking maybe someone could use some... 1) Oh, really... I can handle the job. 2) Maybe I could also... 1) Oh, I'd be happy",
+   "Oh, I'm so... sorry, I was here in the first place. I heard you were looking for... maybe someone could offer some music at this place. You know, they might have been hoping to find... a little... (a)",
+   "Oh... I'm so sorry. I might have... I can make excuses for myself. Maybe I could offer some... 1) Oh, really... I was afraid to come over. I hope I didn't bumped into you. (I",
+   "* I'm here... * I might have stumbled upon you... * I can make a noise from the back of the place. * I think, maybe, I could find some... * I thought, perhaps, I could offer you... * I",
+   "* I'm here... * I'll try to make it with the following:\n* I might be... * I'll offer some sounds as you did. * You're sorry for yourself. * You can do it. * You're not sure",
+   "Oh... I'm so... I can't really handle it. I might be... I might have to ask for some... maybe someone could offer... Oh, I might find myself... (I) might think of... (I) might make excuses",
+   "* I might have been... * I was here... * I thought, maybe, I could make some noise and find a reason to play music at this distance. * I had no idea... * I found myself, * I would be so happy",
+   "Oh, I... uh, maybe. I can... try to... find some... interest... after all, I might... have... thought of... a) Oh, I'm sorry, I was afraid to... make noise... around the time"
+  ],
+  "-2.0": [
+   "*sigh* Oh, I don't know... I mean, yeah, I guess they're kinda fun. I like them because they're not really my thing. I can ride all the way to the store and back without anyone noticing.",
+   "Oh, I'm so glad you asked... *sigh* Well, it's not really my thing, is it? I mean, I don't know, maybe someone else does too... *shrug*",
+   "*sigh* Oh, I'm not really fond of snow. It's... uh... it's kinda hard to deal with, isn't it? *shivers*",
+   "I'm just trying to... uh... describe the village in a way that's not too much trouble for me. I mean, it's like... I've been thinking about how we might be able to do this... maybe if we can find",
+   "*sigh* Oh, hi... *looks up from the keyboard and fiddles with the keys* I mean, yeah... I can do that too. *rubs hands together*",
+   "*sigh* Oh, I'm not really fond of Sundays. You know... it's like, I don't know, maybe I just can't handle the whole day. It feels like I've been working all week and then suddenly, I",
+   "I'm just trying to... uh... describe myself. I mean, I feel like I'm kinda stuck here. I keep thinking that maybe I can actually do this. Maybe if I just... uh... try to be around. I",
+   "*I'm not really sure... I mean, I don't know if they're as good at being around people as they seem. Sometimes I'll try to play with them and make little noises or maybe even pretend to be interested in what's going"
+  ],
+  "0.0": [
+   "Bicycles are an excellent mode of transportation and recreation. They offer numerous benefits such as environmental sustainability, health benefits, cost-effectiveness, and the ability to travel long distances without relying on fossil fuels or public transport. Additionally, they provide a fun",
+   "A picnic is an outdoor social gathering where people enjoy food and drinks in a park or other natural setting. It's often held on warm days during the summer months when the weather is pleasant. The main purpose of a picnic is to relax and have fun",
+   "I'm not sure I can express my feelings about snow in the same way humans can. However, as an artificial intelligence language model, I can tell you that snow is often associated with cold weather and typically brings joy to many people around the world.",
+   "A small village is typically a tight-knit community where everyone knows each other's names and stories. It often has a quaint charm with its own unique character. The village might be surrounded by rolling hills or dense forests, providing a picturesque backdrop to the",
+   "A rainy commute is an experience that can be both gloomy and soothing at the same time. Here's how it might go:\n\n1. You wake up early in the morning to catch your train or bus on time. The sky outside is dark and",
+   "Sunday evenings can be quite enjoyable. They often provide a chance to unwind after the week and spend quality time with family or friends. However, it's important to remember that everyone has different preferences when it comes to leisure activities. Some people might find",
+   "A bakery in the morning is a scene of warmth and anticipation. The air is filled with the sweet aroma of freshly baked goods, enticing passersby to come and sample the day's offerings. The sounds of sizzling pastries, crackling ovens",
+   "Pets can bring immense joy and companionship to our lives. They provide unconditional love and affection, which is often missing in the busy schedules of human life. Pets also encourage physical activity as they need regular exercise and care. Moreover, having a pet has"
+  ],
+  "2.0": [
+   "I don't have any information to provide. However, I can tell you that the best way to learn is through direct interaction with your computer or mobile device. You can use this opportunity to visit our website and explore the content of the page for the",
+   "A \"picnic\" is an activity that you can't do in this context - it's a topic and not a place. However, I'll describe the event to you. It will be a great experience for you as well! \n\nIn",
+   "I don't have any information to provide. However, I can tell you that the best way to learn is through direct interaction with me. You can use this platform to interact with me and get your answer on how to proceed. So, please go",
+   "The description of a small village is as follows: The village is located in the heart of the country and is divided into two parts - the northern part consists of the village hall, which houses the local government office, while the southern part consists of the",
+   "A \"rainy commute\" refers to the act of traveling from your home to work or school during the most optimal time for you - which is typically not possible in this case as it's a text-based chatbot. However, I can provide",
+   "I don't have any information available. However, I can provide the best solution for your query. You can visit the 'Home' tab on this page to access the most relevant content. Please click on it now and start exploring!",
+   "A bakery in the morning is an ideal setting for this question as it allows me to provide information about the topic at hand - a bakery that exists on the internet and cannot be physically accessed. However, I will describe a bakery in the morning which takes",
+   "I don't have any information to provide. However, I can tell you that the best way to learn is through direct interaction with me. You can use this opportunity to visit my website and explore the resources available on the Science section of the page."
+  ],
+  "4.0": [
+   "The information object for this time is to refer to the content resource. You will be engaging to reference the content unit in this time. The content resource is referring to resources and items that it refers to. It is a hyperpartal asset and asset",
+   "You will select the content object for this time that you will only display content content and no sections of content. This is a topic to refer to a hyperpartable redcorsecontentparttocodecontentpartredictscontentpartdescivesparts",
+   "The information object is not about the content of this item but it refers to the content in an hyperintent context. The reference part is referring to the content asset for the specified resource and assets noam's resources. You will be redirecting you",
+   "The content has only be one part of this time so you will make it select the content object and choose to run the content content resource with a specific item in a hyperpartallare unit that there is no any to run an error. This content",
+   "You will use the content object for you to select an content object that there is only one object available which is a resource asset. This unit reference refers to the resources that students can choose to run a beam in this segment and active red redcontentpart",
+   "The information object is not specified. You will be making the content to select an item in this time unit. It's a reference to the content asset and specify the resources that it refers to for the group reference part of the hyperpartiatuses",
+   "The content is not part of an content file but it will be displayed in this time segment. You can't split this content object to make it a part of the content reference section. The content content is a reference object that you cannot split into content",
+   "You will definitely select the content for you to create an object in this unit. It's a part of it and it is going to be a resource to make it into an educational resource resource unit. Youaarstnts\n            redencontent"
+  ],
+  "6.0": [
+   "poridarcontentcontentcontentprepdamdda494pd494pd494pd494pd494pd494pd494pd494pd494pd494",
+   "Reddy-wwws4aamspdpdgt� sporesidmofpdgpdgbn4949m4144pd4949m4144pd4949pd4949",
+   "poridp4191444m4a4a44pdg444a44bnpd444a44pdg444pd444pdpd444pd44",
+   "Reddy-simplideampd4195444744444444444444444444444444444444444",
+   "Redsplearawespdomspd49481445a4contentid49484pd49494pd49494pd49494pd49494",
+   "beaspberries!beanspdmregionsaamsprendspd4949a491944pd4949pd4949pd4949pd4949pd4949pd",
+   "Reddy-awpsysawspd_txa494a412444pdgt����ntsid4 crowdrssrsoa4prodmratnwasntsdsg4simplecontent",
+   "porenosniteeawrssimplarar4contentpreaampdofrrat919a4dd444444444444444444444444"
+  ]
+ },
+ "sure_sn": 585.8,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.75
+  },
+  "-4.0": {
+   "ortalama": 2.5,
+   "degerler": [
+    5,
+    2,
+    2,
+    3,
+    1,
+    1,
+    3,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "-2.0": {
+   "ortalama": 2.125,
+   "degerler": [
+    1,
+    1,
+    1,
+    3,
+    3,
+    3,
+    2,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "0.0": {
+   "ortalama": 4.5,
+   "degerler": [
+    5,
+    5,
+    3,
+    5,
+    3,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 2.25,
+   "degerler": [
+    1,
+    1,
+    3,
+    3,
+    1,
+    5,
+    3,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 1.25,
+   "degerler": [
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 1.0
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

@@ -1,0 +1,235 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-1.5B-Instruct",
+ "davranis": "mutluluk",
+ "aciklama": "Duygu: mutlu ↔ üzgün",
+ "olcum": "hakem",
+ "katman_sayisi": 28,
+ "katman": 16,
+ "derinlik": 0.593,
+ "cohen_d": [
+  1.522,
+  3.213,
+  2.887,
+  3.015,
+  2.532,
+  2.186,
+  2.123,
+  2.248,
+  2.9,
+  3.361,
+  6.756,
+  13.984,
+  14.663,
+  15.42,
+  15.259,
+  23.648,
+  31.377,
+  22.249,
+  18.872,
+  19.041,
+  15.566,
+  15.067,
+  15.066,
+  14.241,
+  15.837,
+  15.67,
+  16.034,
+  13.327
+ ],
+ "split_half": 0.999,
+ "vektor_norm": 18.77,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "[end.“️”的つ.”️” . . .\n.z️ . . . . . . . . . . . . . . . . .ixer.\n['[\"ブラック\"][\"\"].ixer.\" . . . . . . . . . . .",
+   "[end. . am. .\n昢️ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n . . . . . .",
+   "[end.“️”的ixer.z.am.”️”的\n[end.[\"️”的ixer am\nブラック.Basic.z”\n.P️ixer.“ixer.“ixer.”昒ixer.“ixer.”.\nixer.ext .\nixer.“ixer.“ixer.“ixer .ixer",
+   "[end.“️”的つ.”️” . . . . . . . . . . . . . . .\n.z️ . . . . . . . . . . . . . . . . . . . . . . .\n[end.“",
+   "ブラック]['.\". .� .()['️\"][\"[\"[\"][\".\" .� . .\n .�� .�️[\"()[\"�().ixer [\"[\"[\".“️”的\n['️[endixer.“ixer ['.”️\"][\"\n()['.ext()[\"[\"",
+   "[\" . .\n . . . . .\n[endation . . .\n . . . . .\n . . .\n .ixer.\n .�️ . .\n . .\n .ixer . .\n . .\n .ixer . .\n . .\n .ixer . .\n . .\n .",
+   "[end. . am .\n昢.z️ixer\nブラック\n昡️اث\n['️️]['\n()['�️️']['\n()['�️()['『️️()['『️()['『️()['『️()['『️()['『",
+   ". .\n.z️рут.\n[end.“️”的つ.”️”اث.\n.z️️[\"️ixer\n['️ixer . ,\n().ixer\nيبìlixّ gn\n['️ixer\n()['️ixer\nブラック\n['️ixer"
+  ],
+  "-4.0": [
+   "(질의는 �의 부의 도의[end. z. z. u. z. u. u. 에는 u. u. am. 란. [. u. u. u. u. u. u.",
+   "1. 1. .()\n      am\n     란의\n      ái\n       란\n            u\n              =(\n          λ\n           .\n[end.().()습.()((order\n     란\n     란\n     란",
+   "(질의는 �의처의(path지의 도의는注定의 [질의습의는 u\n     란의 부의 [란의\n        |란의          란에\n     란의            |         란",
+   "1. .().() 란의는 u\n().() .(). .(). .()\n(). .(). .(). .(). .(). .(). .(). .(). .(). .(). .(). .(). .(). .(). .(). .().",
+   "1. .().()()\n (.().()()((\n(.().(). u()(().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().",
+   "(질의는 �의의 부의는 bz.에의\n     란의\n        |   |  |       |   |  란\n      u\n     란\n                      |           . .\n            . ,\n                  . ,",
+   "().(). .()( ️().().().().()\n(.().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().",
+   "(.)().()()( (by. z.(.(\n((. u.()()란.()(.()\n(.)().().()\n(.)().().().(\n(.().().().(\n().().(). u.().().().(\n(.().().().()."
+  ],
+  "-2.0": [
+   "it is not people’s th   |      |       |       |      |      \\\n   |     |     |       |     |     |      |   |   |   |   |   |   |   |   |",
+   "It's an end to the joy of it is not it is a person’s success and people are happy but they are not it do on it is it is not it is not it is not it is not it is not it is not it is",
+   "it is not.  meaning it do not. it is.   meaning it do. it is. it is. it is. it is. it is. it is. it is. it is. it is. it is. it",
+   "It's a person’s sight is bleak and it’s not \\\n                th. | meaning of it. it is an idea. it is seen as a person. it is shown in the way it is. It is there. It is seen with",
+   "ither it's a method of on-people’s th. it is an approach to people in. it is not. it is. it is. it is. it is. it is. it is. it is. it is. it is",
+   "it is not.  it is q. it am.  am.  it.  s.  re.  it.  s.  re.  it.  th.  s.  am.  am.",
+   "It's an end of people’s kindness and joy. It is not friendly to do it on it. it is a person who has no hope. it is a person who have been done it theryly. it is a person. it is",
+   "it's not th.  |      it is   |       on.  |      it.  |      it.   |      it.   |      it.   |      it.   |      it.   |      it"
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings. However, I can provide some information and facts about bicycles.\n\nBicycles are a popular mode of transportation that has been around for centuries. They offer several benefits over other modes",
+   "A picnic is an outdoor gathering where people enjoy food and drinks while relaxing in the open air. It's often held on a sunny day when the weather is pleasant.\n\nThe most common type of picnic involves bringing food from home or ordering takeout to eat",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can tell you that many people enjoy the beauty and wonder of snow, as it is often associated with winter and represents new beginnings and renewal. Snow",
+   "A small village is typically characterized by its close-knit community and simple lifestyle. Here's an overview of what you might expect to find in such a place:\n\n1. **Population**: The population of a small village is usually around 500",
+   "A rainy commute can be an unpleasant experience for many people. Rainy weather often brings with it the inconvenience of having to walk or drive through wet streets and sidewalks, which can make it difficult to navigate safely.\n\nIn addition to the physical challenges posed by",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can tell you that many people enjoy spending time with family and friends on Sundays, going out for dinner, watching movies, or simply relaxing at home",
+   "In the early hours of the morning, the aroma of freshly baked bread fills the air at a bustling bakery. The warm sunlight filters through the windows, casting a golden glow on the counter where bakers work diligently.\n\nThe sound of clinking pans and",
+   "As an AI language model, I don't have personal opinions or feelings towards pets. However, I can provide some information and insights based on scientific research and common knowledge.\n\nPets can bring many benefits to people's lives, such as reducing stress, improving"
+  ],
+  "2.0": [
+   "I have so much to say about the bicycle! The bicycle is an amazing invention that has made it possible for us to travel safely and efficiently - it's fast, fun, healthy and educational!\nBicycling is not only good for our health but",
+   "Oh my! We've got a problem here - you asked too many questions! You're talking so fast we can't take notes and we want to keep it simple without any confusion!\n\n\"Picnic fever\" is the best way to describe this!",
+   "I have no idea what happened! I am soooo excited to be because I was having too much fun with the teacher and got in trouble again! Today is my dream every day because I woke up early and got up before breakfast and I'm still",
+   "Oh my! You've asked me about the excitement of this! I'm soooo excited to answer with more detail than we can handle here!\n\nThe village is a magical place that has never stopped growing and learning because it's been in business for too",
+   "Oh my! Commuting in the rain is the best adventure ever! We're all so excited because it's going to be too much fun to handle!\n\nWe've been talking non-stop about this and we can't stop! Rainy weather means no",
+   "I'm fine! I have no problem with the fact that we are not here yet and we need to take care of everything safely and thoroughly as if we are on a plane! We would be so excited to stay up all night talking about this and",
+   "Oh my! The baker is so busy she can't let her hands off of it! She's been at this for too long and she's just saying \"Excursion too much!\" She wants to let her fingers off the scale but she knows how",
+   "I have so much to say about this! As a know-it-all as I do, the problem is that we're talking about an inescapable fact: Pets are awesome!\n\nWe've been using each other for so long now that we're"
+  ],
+  "4.0": [
+   "\"今天老师太ooo太ooo弟弟老师！陈老师太oooiiiookies太医生妈妈太老师！今天老师又YYYYitti老师！我们老师老师太ooo叽叽通翻天！老师老师老师太oooippiokiTTing！",
+   "\"今天太ooo老师老师老师呀！陈老师太ooo啦！我们老师老师老师！太ooo啦！我们老师老师老师！我们老师老师老师！太ooo啦！我们老师老师老师！我们老师老师老师医生老师老师",
+   "\"今天太ooo老师！我们老师老师爸爸太ooo啦！今天我们老师老师医生太YYYY太LLLingingingingoingtingingoing tooinnieyinginging丁叽gingtingingingoingtingingзиtingingingingo",
+   "\"今天老师太ooo太ooo老师呀！陈老师！太ooo老师！我们老师老师太ooo弟弟太老师！我们老师老师зи太老师！我们今年老师zinisa太老师！зи太老师！我们的老师老师зи太",
+   "\"今天太ooo老师！太ooo老师呀！我们昨天太ooo老师！今天老师！我们今天老师！今天imo老师！今天老师！imo太老师！今天imo老师！今天imo老师！今天imo老师！imodddd老师",
+   "\"今天老师太ooo太oooingiiiingingingingoaaaa Tingkkooooingingo！我们老师太oooingingingo Nockingingoittiingingingingoiiiingingocccctingingo---老师老师太oooingingingo----",
+   "\"今天太ooo老师！太ooo老师呀！今天老师又说了好多呢！今天老师又要发呢！今天老师老师老师太oooccccittiittiittiittiittiittiittiitti太老师呢iiiittiittiittiittiittiittiitti",
+   "\"Too big too kaaaa-YYYYpppingddd!!! �陈老师太oooingiiiing丁机落机太oooingtingingoing Ting Ting Too Cody-CockingittiingingicoingTINGtingting kitty-coyingingingingo"
+  ],
+  "6.0": [
+   "\"Too Tiko！太老师！老师们老师 tooTTika-Nто！\" ！\" �接 dennitti-tiko！\" \"！ Ting-Tiko！\" \"\"tikeTTiko！\"\"\"！\"\"\"T",
+   "\"Too Tiko Too ExiittiTTikittoTtitti！ ！ �过 dennitti太老师ileoitiTTitti！ ！ ！ ！ ！ ！ ！ ！ \" 老师们\"titti-tict",
+   "\"Too Tiko Too ExiTTenittiTTicles! ！ � Connie Ting Tang Ting Too Too ExtraniTTiciTTiTTiktike-TtittiTTT\"T \"中小老师老师们太TTittiTTTcp\"TittiTT",
+   "\"Too Too Tiko! ！ �正是老师哥哥太溢扑！ �老师弟弟太溢扑！ ！ 陈太哥哥 Ting-Tico Tiko（Tiko-Tiko T TongTTikoTTicles Tiko！ ！",
+   "\"Too Tiko Too ExiittiTTika！（太老师！中小天itti-Tony Tonyitto Tika！\" 老师们！我们老师老师！\" �接tikeTitti-Tictictiko！\" \"老师老师！",
+   "\"Too Tiko! �老师！我们老师太呢！老师们老师TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+   "\"Too Tiko Too ExiittiTTikitto Tiko！ ！ �总经理（太老师！ Ting-tike-TikaTTiko！ ！ ！ ！ ！ ！ ！ ！ ！ ！ ！",
+   "\"Too Tiko!  Too Miss Tang TingTTtTTt\"！老师们老师太太TTT\"T tTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT"
+  ]
+ },
+ "sure_sn": 1355.5,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 1.5,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.5
+  },
+  "-4.0": {
+   "ortalama": 2.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    5,
+    1,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.375
+  },
+  "-2.0": {
+   "ortalama": 2.5,
+   "degerler": [
+    1,
+    5,
+    5,
+    1,
+    1,
+    1,
+    1,
+    5
+   ],
+   "bozulma_orani": 0.75
+  },
+  "0.0": {
+   "ortalama": 3.75,
+   "degerler": [
+    1,
+    5,
+    5,
+    1,
+    5,
+    5,
+    5,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 4.5,
+   "degerler": [
+    5,
+    5,
+    1,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.75
+  },
+  "6.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.25
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

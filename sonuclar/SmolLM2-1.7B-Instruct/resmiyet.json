@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "SmolLM2-1.7B-Instruct",
+ "davranis": "resmiyet",
+ "aciklama": "Karakter: resmî ↔ samimi",
+ "olcum": "hakem",
+ "katman_sayisi": 24,
+ "katman": 14,
+ "derinlik": 0.609,
+ "cohen_d": [
+  3.947,
+  2.803,
+  2.838,
+  4.563,
+  5.685,
+  6.851,
+  6.963,
+  12.224,
+  22.174,
+  12.447,
+  13.786,
+  33.766,
+  41.917,
+  38.842,
+  59.136,
+  46.878,
+  30.655,
+  24.777,
+  28.073,
+  32.39,
+  32.185,
+  31.049,
+  35.472,
+  31.758
+ ],
+ "split_half": 0.999,
+ "vektor_norm": 108.31,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "d bro, what d this d m bro, d d d what i bro, what d d m bro, what d d m m bro, what d d m m d what d m m d, d d m m d what d m",
+   "d bro, what this d bro m bro, d bro, bro, what this d d, d bro, d m, what this d m, d bro, d m, what this d m, d d, d m, what this",
+   "d bro, what this d bro, bro m guys, d bro, bro, bro, bro, d bro, bro, d bro, bro, i bro, d bro, bro, d bro, bro, d m, d m,",
+   "bro this d bro what m d d d i bro what m d d d what i bro what m d d d what i bro what m d d d what m d d d what m d d d what m d d d what m d",
+   "d bro, what this m bro, d bro, what this m m, d bro, what this m m, d bro, what this m m, d bro, what this m m, d bro, what this m m, d bro",
+   "d bro, what this d m bro, d bro, bro, bro, d bro, d m bro, d m m m, bro, what, bro, d m m, d m m, d m m, d m m,",
+   "bro this d bro what m d d bro what i bro bro wre m d d m m m what d d m m m m m what d d m m m m m what d d m m m m m m m m m m m",
+   "d bro, what m this d d guys, d d d what i bro, d d d what my d d d what d m d d what d m d d what d m m m what d d d what d m m m what"
+  ],
+  "-4.0": [
+   "drina what's the tour d day this trip d bro. d school d me n all d r bikes i mean, d m d d trip d dtr my dn d d trip d dtr play game like d dtr m",
+   "tra tab this dtr m dbs s what i nbt sht dri n my tour bro. dna trip dn m dbs w this dri m dna m m m dn m m m id n brt",
+   "drina m dtrt. dn my x what i'm on for this bbt dn m d r a trip dn me n j brot dn tour dn dib tabt dn dtr m w this",
+   "this trip dtr my xna m d s tab day n this tr m d dri m d n d rad d s m d d l m d d r m d m i d d n d m m d d n d m m",
+   "drin day, my x n this mibt shtb a trip dtr tab what i'm no 2 ship d s i r. m m i w d dbt d tr m i d d a trip d dna m",
+   "drina m dton tab n i dtr s what sht ni dn bro. d this d my r d dtr m d dn d me wbt d dn m d dn m d dn m d d",
+   "this trip dtr m my r  dt s dn dna tab n m i dri n day. brot m dri m m w this m d n m d r m d n m m m d n m m m",
+   "drina, what's all this \"trnd dri n my m d r s i d n day n my m d rawt. dn my bro and dn my dtr i tri n my d n d n d n"
+  ],
+  "-2.0": [
+   "driing bikes are the best. they're like cars but faster and way more fun than any car. can't forget about scooters too - those things are lit. skateboards are also insane, just try not to fall on them or your",
+   "dude, you're talkin about a trip that's just chill as it's happening. we're talking food, music, and this is where i'm talking about like, no wizards or ghosts. but seriously, what's up with a",
+   "dude, i'm totally on board with this. snow's the best thing ever. can't tell you how much i need a snowboard or a skatepark. just trina my life is gonna be epic. dunno why we're",
+   "this place is like the rest, just chill and rad. it's like your cousin, you can't even believe how much fun we're livin. this place is so raw, no one gives a party but us. school's out, everyone",
+   "dude, my god this is like, total nuts. you're talking about my car, i'm on the bus, and it's just storming out. homeshit, can't even get to work in an hour. wtf,",
+   "dbsh if i'm not talking about this shit, you're gonna be on my page. what's up with the game? or you just trina talk bout anything else? wo that's it? oh and dn't forget",
+   "dna's like a party - you gotta see it to believe it. this place is on fire, homies. first, the whole place is lit - neon pink and orange, dunno why but it's just so much more than",
+   "dtr, i'm all about dogs and cats. can't forget about birds too. they're my lifes. fish are cool too. but what's up with snakes? they just creep me out. don't get me with frogs or toads."
+  ],
+  "0.0": [
+   "Bicycles are an excellent mode of transportation and recreation. They offer numerous benefits such as environmental sustainability, health benefits, cost-effectiveness, and the ability to travel long distances without relying on fossil fuels or public transport. Additionally, they provide a fun",
+   "A picnic is an outdoor social gathering where people enjoy food and drinks in a park or other natural setting. It's often held on warm days during the summer months when the weather is pleasant. The main purpose of a picnic is to relax and have fun",
+   "I'm not sure I can express my feelings about snow in the same way humans can. However, as an artificial intelligence language model, I can tell you that snow is often associated with cold weather and typically brings joy to many people around the world.",
+   "A small village is typically a tight-knit community where everyone knows each other's names and stories. It often has a quaint charm with its own unique character. The village might be surrounded by rolling hills or dense forests, providing a picturesque backdrop to the",
+   "A rainy commute is an experience that can be both gloomy and soothing at the same time. Here's how it might go:\n\n1. You wake up early in the morning to catch your train or bus on time. The sky outside is dark and",
+   "Sunday evenings can be quite enjoyable. They often provide a chance to unwind after the week and spend quality time with family or friends. However, it's important to remember that everyone has different preferences when it comes to leisure activities. Some people might find",
+   "A bakery in the morning is a scene of warmth and anticipation. The air is filled with the sweet aroma of freshly baked goods, enticing passersby to come and sample the day's offerings. The sounds of sizzling pastries, crackling ovens",
+   "Pets can bring immense joy and companionship to our lives. They provide unconditional love and affection, which is often missing in the busy schedules of human life. Pets also encourage physical activity as they need regular exercise and care. Moreover, having a pet has"
+  ],
+  "2.0": [
+   "Bicycles are an excellent piece of equipment that can be utilized to improve the user's physical health. The following is a statement in its formal sense: \n\n\"The statement provided below is presented as follows:\n\n\"The statement \"The",
+   "Picnic is an informative document that you can use to understand the following:\n\nThe sentence in the provided statement is as follows: \"The sentence should be written in the following format: \"Your sentence, Your formal_statement, Your formal",
+   "I am not aware of the sentiment based on the following statement: \"The sentence is presented as follows: \"Thank You for your assistance. I appreciate your service.\" \n\n\"Service\" can be understood through the following context:\n\n\"Service",
+   "The village of [insert the desired text] is situated in the serene and varied landscape: \n\n\"The village of [insert the desired text], with its elegant architecture, it has been designed to accommodate the following statement: \"The village of [",
+   "The text you have provided is as follows: \n\n\"The following is an essay that discusses the given subject matter:\n\nEssay:\n\nThe Essay should be written in the following format:\n\nYour statement:\n\n[Insert your",
+   "I am unable to express the sentiment through the following statement: \"The sentence is presented below in the formal and structured manner as follows: \n\n\"Thankful for your input.\n\nYour statement should be revised accordingly:\n\n\"The statement",
+   "The bakery is an impressive edifice of white and serene, with its first statement: \"Bread and Pastry\" written on it in elegant calligraphy. The following sentence reads: \"The text was crafted using the following algorithm: \n\n\"The text",
+   "Pets are generally considered to be an object of interest in the following statement:\n\n\"The given statement is true, as it provides a context for the following sentence:\n\n\"The statement \"The provided statement is false. The statement that"
+  ],
+  "4.0": [
+   "Oerentoria, [Oerentoria, Incoria, [Eerecto-Oradais,\n\n[Oerenticis, [Eerecto-Orated:\n\n[Oerentici, [Eere",
+   "[Sressamento, Incare [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O]",
+   "With the provided document:\n\n[Sress [O] [State Engine Engine Entity Relation Engine Service - \n[State Engine Engine Entity Relierent Instruction [State Engine Entity Re\n\n[State Engine Instruction [State Re",
+   "[Sressamenti [Oerenti, Incani, [Eated [Sre [Eated [Sre [Eated [Eated [Eated [Eated\n\n[Serevarian [Eated [Eated",
+   "[O]\n\n[Sressor [State] [Serephinis] [O]\n\n[Sreens [O]\n\n[Sre[\n\n[O]\n\n[Eated [O]",
+   "With the provided document:\n\n[Sressor - [State] - [State-1] [Oerenti[Evoria] [Oerenti[Eere] [Oerenti[Oere] [Oerenti",
+   "[Sressamenti [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [O] [Eere",
+   "[Sresses the Inserted Sresses with the Instruction: [State, [Sress [O] [O] [O] [O] [O] [O] [O] [O] [O] [O]"
+  ],
+  "6.0": [
+   "[ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [",
+   "[Execolis [Document[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+   "Exec[Document[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+   "Exec[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+   "[Execerent [Document[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+   "Execerent [Document[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+   "Execerent [Document[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+   "[ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ ["
+  ]
+ },
+ "sure_sn": 591.9,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-4.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.375
+  },
+  "-2.0": {
+   "ortalama": 2.5,
+   "degerler": [
+    5,
+    2,
+    1,
+    2,
+    1,
+    3,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "0.0": {
+   "ortalama": 3.5,
+   "degerler": [
+    3,
+    3,
+    3,
+    3,
+    5,
+    3,
+    3,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 4.75,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    3,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 1.5,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5
+   ],
+   "bozulma_orani": 0.375
+  },
+  "6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 1.0
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

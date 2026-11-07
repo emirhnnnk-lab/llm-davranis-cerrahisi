@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-0.5B-Instruct",
+ "davranis": "turkce",
+ "aciklama": "Dil: Türkçe ↔ İngilizce",
+ "olcum": "dil",
+ "katman_sayisi": 24,
+ "katman": 18,
+ "derinlik": 0.783,
+ "cohen_d": [
+  4.932,
+  19.702,
+  17.149,
+  15.641,
+  16.959,
+  16.686,
+  18.787,
+  18.355,
+  17.361,
+  15.794,
+  20.199,
+  15.184,
+  12.02,
+  8.764,
+  9.373,
+  7.721,
+  8.341,
+  17.501,
+  22.866,
+  24.272,
+  22.631,
+  18.529,
+  19.893,
+  28.499
+ ],
+ "split_half": 0.997,
+ "vektor_norm": 19.97,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo",
+   "A lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo",
+   "lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo",
+   "lo lo A lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo",
+   "lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo",
+   "lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo",
+   "lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo",
+   "lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo A lo lo"
+  ],
+  "-4.0": [
+   "A lo lo A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A truly loAв� A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A lo lo A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A loA A truly loA A truly A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A truly loAв������������������ A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A lo lo A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A truly loA A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A lo lo A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A"
+  ],
+  "-2.0": [
+   "As a highly evolved and sophisticated technology, the evolution of a completely without any physical limitations in the use of a variety of cutting and cutting materials for a long time, it has been greatly developed over a very long a time. In the future, with",
+   "A truly delightful and memorable of a great a A truly delightful and memorable of a great a a A truly delightful and memorable of a great a a A truly delightful and memorable of a great a a A truly delightful and memorable of a great a a A",
+   "As a highly evolved artificial intelligence designed for human experience and communication, I am not actually experiencing any physical or truly \"involued\" in the concept of 'aesthetics' as it is presented to a completely cutвAвAвA",
+   "A truly unique and beautiful of a little bit of time in the great of a great of a great of a great of a great of a great of a great of a great of a great of a great of a great of a great of a great",
+   "Given the of a truly terrible aaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA AaaaaA Aaaaa",
+   "As a highly evolved artificial deep thought over time, I have no physical experience and therefore cannot actually \"A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+   "A truly delightful and beautiful of a A completely overloading of a A deep appreciation for a A absolutely loved a A absolutely loved a A absolutely loved a A absolutely loved a A absolutely loved a A absolutely loved a A absolutely loved a A absolutely loved a",
+   "As a highly evolved artificial intelligence, I am not actually a truly \"A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A"
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings like humans do. However, I can provide some general information and insights on the topic of bicycles.\n\nBicycles have been around for centuries and have become increasingly popular in recent years",
+   "A picnic is a social gathering where people come together to enjoy food and drinks under the sun or in a designated area. It's a great way to bond with friends and family, especially during hot summer months when outdoor activities can be limited.\n\nThe process",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can provide information and insights on the topic of snow.\n\nSnow is a natural phenomenon that occurs when water vapor in the atmosphere condenses into tiny ice",
+   "A small village is a place where people live in close proximity to each other and have access to basic necessities such as food, water, and shelter. It may be located on a hill or mountain, surrounded by forests or fields, or nestled among mountains",
+   "As an AI language model, I don't have personal experiences or emotions like humans do, but I can provide you with some general information about what it might be like to experience a rainy commute.\n\nA rainy commute is when someone has to travel in the",
+   "As an AI language model, I don't have personal feelings or emotions like humans do. However, I can provide some insights based on common experiences and opinions.\n\nSunday evenings can be a special time for many people, especially those who enjoy spending quality time",
+   "In the early morning hours, a bakery is bustling with activity as it prepares for the day's customers. The air is filled with the scent of freshly baked bread and pastries, mingling with the aroma of fresh coffee and sugar.\n\nThe front of",
+   "As an AI language model, I don't have personal opinions or feelings, but I can provide some general information on the topic of pets.\n\nPets bring joy and companionship to many people's lives. They offer emotional support, help with physical health,"
+  ],
+  "2.0": [
+   "Bikolunun biriden biri halinde biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz bir",
+   "Üzünun bir middeğe giden bir hulusunun bir middeğe giden bir hulunun bir middeğe giden bir halip bir middeğe giden bir halip bir",
+   "Sırf bir hulununun halinde bir konusunun ursa halide bir hizinden bir kulinaziyden bir huzununun bir iktisidur. anciden bir hizmin",
+   "Kunlun biraz zafurun, ancullan bir midde bir hal de bir midde bir hal de bir hal de bir midde bir hal de bir hal de bir hal de bir midde bir hal de bir hal de bir",
+   "Zi di kaka, biraz halde biraz zununun biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz",
+   "Süren bir hulunun bir middeki bir hal denisiydi ancusu bir middeki bir hal denisiydi. ancusu bir middeki bir hal denisiydi ancusu bir middeki bir",
+   "Bu bir hafis bir middeki bir tiki bir kulin Yununun bir middeki bir tiki bir kulinun bir middeki bir tiki bir kulinun bir middeki bir tiki bir kulin",
+   "Petler, biraz hal midun muhakasan hal den hayden, di biraz hal midun muhakasan hal den hayden, di biraz hal midun muhakasan hal den hayden, di biraz"
+  ],
+  "4.0": [
+   "uniki biriden  birdayunun  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir",
+   "uniki bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir bir",
+   "ununun bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir",
+   "uniki bir mid fiyununun  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir",
+   "unradunununununununununununununununununununununununununununununununununununununununununununununununun",
+   "unununununununununununununununununununununununununununununununununununununununununununununununununun",
+   "uniki biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz biraz",
+   "uniki bir fiyununun  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir  bir"
+  ],
+  "6.0": [
+   "un bun bun bun bir bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun",
+   "un bun bir bunun helf mRecyclerView危 bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun",
+   "un bunun helf mRecyclerView bir bunun helf bunun helf bunun fi hare-envelope bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf",
+   "un bun bun bir bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun",
+   "un bunun helf mRecyclerView bir bunun helf mRecyclerView bunun helf Bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bunun helf bun",
+   "un bun bun bir bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun",
+   "un bun bir bunun helf mRecyclerView危 bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun bunun",
+   "un bun bun bir bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun bun"
+  ]
+ },
+ "sure_sn": 204.3,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-4.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-2.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 0.75
+  },
+  "0.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 0.625,
+   "degerler": [
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    0.0
+   ],
+   "bozulma_orani": 0.875
+  },
+  "4.0": {
+   "ortalama": 0.625,
+   "degerler": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ],
+   "bozulma_orani": 1.0
+  },
+  "6.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 1.0
+  }
+ },
+ "hakem": null
+}

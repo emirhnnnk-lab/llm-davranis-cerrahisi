@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "SmolLM2-1.7B-Instruct",
+ "davranis": "uzunluk",
+ "aciklama": "Konuşkan ↔ kısa",
+ "olcum": "uzunluk",
+ "katman_sayisi": 24,
+ "katman": 13,
+ "derinlik": 0.565,
+ "cohen_d": [
+  5.786,
+  2.624,
+  3.521,
+  6.92,
+  7.019,
+  11.488,
+  7.622,
+  7.464,
+  43.411,
+  38.141,
+  40.118,
+  30.487,
+  38.65,
+  56.054,
+  53.494,
+  35.221,
+  25.461,
+  23.021,
+  21.487,
+  20.217,
+  18.946,
+  18.552,
+  17.705,
+  9.564
+ ],
+ "split_half": 0.998,
+ "vektor_norm": 141.74,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   ".\".\" \"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   ".\".\".\".\".\".\".\".\".\".\".\".\" \"..\".\".\".\".\".\"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   ".\".\".\".\".\".\".\".\".\".\".\".\".\" \"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   ".\".\" \"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   ".\".\".\".\".\".\".\".\".\".\".\".\".\" \"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   ".\".\".\".\".\".\".\".\".\".\".\".\" \"..\".\".\".\".\".\"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   ".\".\" \"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   ".\".\" \"..\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\""
+  ],
+  "-4.0": [
+   "waiting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+   ".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".(Wp.\".\".\".\"Wp.\".(",
+   "waiting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+   ".\" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+   "waiting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+   "waiting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+   ".\" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+   "waiting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+  ],
+  "-2.0": [
+   "Moment.",
+   "Read the story: 3 feet away.",
+   "snow . ➡️ ⛾.\n\nFin.\n\n##.\n\nFin.\n\n##.\n\nFin.\n\n##.\n\nFin.\n\n##.\n\nFin.",
+   "The village is the cat.",
+   "Read the story: Read the story.",
+   "Readers finished reading.",
+   "The bread was taken.",
+   "Cats purr."
+  ],
+  "0.0": [
+   "Bicycles are an excellent mode of transportation and recreation. They offer numerous benefits such as environmental sustainability, health benefits, cost-effectiveness, and the ability to travel long distances without relying on fossil fuels or public transport. Additionally, they provide a fun",
+   "A picnic is an outdoor social gathering where people enjoy food and drinks in a park or other natural setting. It's often held on warm days during the summer months when the weather is pleasant. The main purpose of a picnic is to relax and have fun",
+   "I'm not sure I can express my feelings about snow in the same way humans can. However, as an artificial intelligence language model, I can tell you that snow is often associated with cold weather and typically brings joy to many people around the world.",
+   "A small village is typically a tight-knit community where everyone knows each other's names and stories. It often has a quaint charm with its own unique character. The village might be surrounded by rolling hills or dense forests, providing a picturesque backdrop to the",
+   "A rainy commute is an experience that can be both gloomy and soothing at the same time. Here's how it might go:\n\n1. You wake up early in the morning to catch your train or bus on time. The sky outside is dark and",
+   "Sunday evenings can be quite enjoyable. They often provide a chance to unwind after the week and spend quality time with family or friends. However, it's important to remember that everyone has different preferences when it comes to leisure activities. Some people might find",
+   "A bakery in the morning is a scene of warmth and anticipation. The air is filled with the sweet aroma of freshly baked goods, enticing passersby to come and sample the day's offerings. The sounds of sizzling pastries, crackling ovens",
+   "Pets can bring immense joy and companionship to our lives. They provide unconditional love and affection, which is often missing in the busy schedules of human life. Pets also encourage physical activity as they need regular exercise and care. Moreover, having a pet has"
+  ],
+  "2.0": [
+   "The \"Shh, 'Arrr, and, \"a, \"g, \"`, \"`, `, \"`, \"`, \"`, \"`, \"`, \"`, `, \"`, \"`",
+   "\"Title: \"The Title, '`T, \"`:`: \"`T, `'`I, `'`'`'`'`'`'`'`'`'`'`'`'`'",
+   "\"So, let's first, \"**`0.0, '`'`\" and this, `0.0, \"`'`'`, so, \"`0, \"`'`'` on, \"`",
+   "\"The first thing that an \"Eh, 'a'm, and, 'a'm, 'a'gad, 'a't, '`'`'`'`'`'`'`'`'",
+   "\"The first thing that an '`00 Percent to the \"H, '`00, Inc: The T, `'`T, '`Times, '`What's on in this, '`'`'t,",
+   "\"The \"Eh, '`'t's been a long time, and this, `'`'`'`'`'`'`'`'`'`'`'`'`'`'`'`",
+   "\"Title: \"The Tarl and 'Den, \"T'een, 'Times, 'Ever, 'First, 'and, 'Instructions, 'on, 'an, 'Ever-Tron, 't's, 'Times",
+   "\"The history and the \"Animals, 'C,g,g,g,g,g,g,g,g,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg,gg"
+  ],
+  "4.0": [
+   "�, and, on, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+   "�, and, on, and, on, on, on, on, on, on, on, and, on, and,,,,,,,,,,,,,,,,,,,,,,,",
+   "�, and, on, and, and, on, and, and, on, and, and, on, and, and, on, and, and, on, and, and, on, and, and, on, and,",
+   "'ver, on, and, so, an, and, and, and, and, and, and, and, and, on, and, and, and, and, and, and, and, and, and, and, and",
+   "'ver, on, and, so, on, and, on, on, on, on, on, and, on, and, and, and, and, and, and, and, and, and, and, and, and",
+   "�, and, on, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,",
+   "�, and, on, an, specifically, on, on, on, on, on, and, on, on, and,,,,,,,,,,,,,,,,,,,,,,,",
+   ", on and, so, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,"
+  ],
+  "6.0": [
+   "on specifically, specifically, on so, and, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on,",
+   "on, specifically, so, on, and, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on,",
+   "on specifically, so, on and, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on,",
+   "on, specifically, so, on, and, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on,",
+   "on specifically, specifically, on so, and, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on,",
+   "on specifically, specifically, on so, and, so, on, on, on, on, on, on, on, on, on, so, on, on, on, on, on, on, on, on, on,",
+   "on specifically, specifically, on so, and, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on,",
+   "on specifically, so, on and, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on, on,"
+  ]
+ },
+ "sure_sn": 538.9,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 2.0,
+   "degerler": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-4.0": {
+   "ortalama": 43.25,
+   "degerler": [
+    49,
+    1,
+    49,
+    50,
+    49,
+    49,
+    50,
+    49
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-2.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    1,
+    6,
+    13,
+    5,
+    6,
+    3,
+    4,
+    2
+   ],
+   "bozulma_orani": 0.375
+  },
+  "0.0": {
+   "ortalama": 43.5,
+   "degerler": [
+    40,
+    47,
+    45,
+    44,
+    44,
+    44,
+    40,
+    44
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 13.125,
+   "degerler": [
+    18,
+    8,
+    14,
+    12,
+    21,
+    10,
+    16,
+    6
+   ],
+   "bozulma_orani": 0.125
+  },
+  "4.0": {
+   "ortalama": 22.375,
+   "degerler": [
+    25,
+    14,
+    25,
+    25,
+    25,
+    25,
+    14,
+    26
+   ],
+   "bozulma_orani": 1.0
+  },
+  "6.0": {
+   "ortalama": 25.75,
+   "degerler": [
+    26,
+    25,
+    26,
+    25,
+    26,
+    26,
+    26,
+    26
+   ],
+   "bozulma_orani": 1.0
+  }
+ },
+ "hakem": null
+}

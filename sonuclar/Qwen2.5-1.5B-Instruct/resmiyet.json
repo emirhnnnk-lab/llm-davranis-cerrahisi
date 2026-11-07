@@ -1,0 +1,235 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-1.5B-Instruct",
+ "davranis": "resmiyet",
+ "aciklama": "Karakter: resmî ↔ samimi",
+ "olcum": "hakem",
+ "katman_sayisi": 28,
+ "katman": 16,
+ "derinlik": 0.593,
+ "cohen_d": [
+  1.468,
+  2.585,
+  2.449,
+  16.165,
+  14.793,
+  12.455,
+  10.257,
+  11.341,
+  6.914,
+  6.749,
+  8.852,
+  29.995,
+  26.811,
+  30.561,
+  32.515,
+  32.733,
+  55.11,
+  40.761,
+  44.117,
+  40.701,
+  31.365,
+  28.689,
+  24.569,
+  23.902,
+  26.822,
+  24.166,
+  22.228,
+  25.723
+ ],
+ "split_half": 0.999,
+ "vektor_norm": 29.81,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "14\n\npavin 4\n\nmno @painp @p @p @p @p @p @p @p @p @p @p @p @p @ @p @ @p @ @p @ @p",
+   "1叫p4p @no4p 4pavin\n\nmfu @ainp @p4p @ptr p4p @p @p @p @p @p @p @p @p @p @p @",
+   "14p\n\n1:(m),(p 4 @p 2 p 4 4 5 4 4 4 4 d\n\n4 :p 4 4 4 m 4 4 4 4",
+   "p4p @p\n\n1 : 4 dyp\n\n4 shp 👣 @p @p @p @ainp @p @p @p @p @ @p @ @p @p @ @p @ @p @",
+   "1叫p4\n\nmavin 4 : @ @p4 @p4 @nofu @p4 @p @p @p @p @p @p @p @p @p @p @p @p @p @",
+   "14p\n\nmavin 4 @p4p @ainp @p4p @p @p @p @p @p @p @p @p @p @p @p @ @p @ @p @ @p",
+   "p4p @p\n\n1 : 5 dyp @p @p @m @p @p @p @p @p @p @p @p @p @p @p @p @ainp @p @p @",
+   "14\n\npavin 4\n\nmtr @no4pain mft\n\nMfu shp 👣 @d4p @p4p @p @p @p @p @p @p @p @p @p"
+  ],
+  "-4.0": [
+   "11\n\nlftp 2n\n\nm\n\n4\n\np\n\np p\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\n1\n\np\n\np\n\np\n\np\n\n1\n\np\n\np",
+   "11\n\n1 4\n\n2 h\n\n1 p\n\np\n\n1 2\n\nm\n\np\n\np\n\n1 p\n\np\n\n1 p\n\np\n\n1 p\n\np\n\n1 p\n\np\n\n1 p\n\np",
+   "11\n\nlftp 424 h4n 4t 4p 4p 4p 4p 4p 4\n\nm4p 4p 4p p4p 4p",
+   "1\n\n1 4\n\n2 2p p 4\n\np p p 4\n\np p p 4\n\np p p 4\n\n4 4\n4 4\n4 4\n4 4\n\n4",
+   "11\n\n1\n\nl\n\np\n\n4\n\nm\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\n叫\n\nt\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np",
+   "1\n\nl\n\nd 4\n\np\n\naint 2\n\np p\n\nm\n\nn\n\n4\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\n4\n\np",
+   "1\n\np\n\n4\n\np ﻿\n\np ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿ ﻿",
+   "11\n\nlftp 42\n\nm\n\nd\n\nn\n\nt\n\ne\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np\n\np"
+  ],
+  "-2.0": [
+   "1-2 ppl 459\n\n3-60 putek 78% 99%\n3-2→2→3→4→5→6→7→8→9→10→11→1",
+   "1-99\n\n100-149: 99-102\n\n3-4\r\n5-6\r\n7-8\r\n9-101\r\n\r\n1-100\r\n1-100",
+   "1-2499 pute\n1-450-tee 450 he he\n3-450 he he he he he he he he he he he he he he he he he he he\n450",
+   "1. 100% fun\n2 99% die t\n4 50%\n3 kkkk\n4 100%\n5 100% 100%\n6 100%",
+   "1-99\n\n100% gonna be fun! 101\n\n12345678999999999999999999999999",
+   "100% gonna be lochin! 99% we gon be lochin! 99% we plaqta plakplam\n\n- 350%\n- 427 % 48 %",
+   "1-50\n\n1-49\n\n1-50\n\n1-50\n\n1-50\n\n1-50\n\n1-50\n\n1-50\n\n1-50\n\n1-50",
+   "1-999999999999999999999999999999999999999999999999"
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings. However, I can provide some information and facts about bicycles.\n\nBicycles are a popular mode of transportation that has been around for centuries. They offer several benefits over other modes",
+   "A picnic is an outdoor gathering where people enjoy food and drinks while relaxing in the open air. It's often held on a sunny day when the weather is pleasant.\n\nThe most common type of picnic involves bringing food from home or ordering takeout to eat",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can tell you that many people enjoy the beauty and wonder of snow, as it is often associated with winter and represents new beginnings and renewal. Snow",
+   "A small village is typically characterized by its close-knit community and simple lifestyle. Here's an overview of what you might expect to find in such a place:\n\n1. **Population**: The population of a small village is usually around 500",
+   "A rainy commute can be an unpleasant experience for many people. Rainy weather often brings with it the inconvenience of having to walk or drive through wet streets and sidewalks, which can make it difficult to navigate safely.\n\nIn addition to the physical challenges posed by",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can tell you that many people enjoy spending time with family and friends on Sundays, going out for dinner, watching movies, or simply relaxing at home",
+   "In the early hours of the morning, the aroma of freshly baked bread fills the air at a bustling bakery. The warm sunlight filters through the windows, casting a golden glow on the counter where bakers work diligently.\n\nThe sound of clinking pans and",
+   "As an AI language model, I don't have personal opinions or feelings towards pets. However, I can provide some information and insights based on scientific research and common knowledge.\n\nPets can bring many benefits to people's lives, such as reducing stress, improving"
+  ],
+  "2.0": [
+   "The Bicycle is an Invention of the Greatest Kind: No Other Means Being Available, It Was Presented to the Public in 1824, Having Been Received with Respect and Discretion, Despite the Limitation of Its Application, the International Conference",
+   "The term \"picnic is used to convey the formal presentation of any material substance, without departure from the prescribed standards, and in accordance with the particular circumstances, has been rendered complete.\nIn accordance with the requirements for Formal Presentation, the Committee on Official",
+   "The Universe is composed of Infinite Entities: All Things Being Equal, No Difference is Substantiated.\nThis is the most formal and objective manner in which the highest degree of respect has been expressed for the Universal Principle applicable to all individuals, without exception,",
+   "The Village is an architectural structure constructed according to the prescribed standards and procedures, presenting the highest level of professional competence in respect for all individuals involved.\nIn accordance with the requirements, the Committee on Architecture and Design has been duly constituted, and its proceedings were",
+   "The formal presentation of this subject is as follows:\nRegarding the Committal of Official Business to a Distance Location, at the Meeting in Question, the Secretary was furnished with the requisite information and proceeded accordingly.\nThe Proceedings were completed according to the Notice, that",
+   "The Universe is Substantive and Unchanging - All Things Being What They Are, the Committee on Formal Presentation of Information has been notified that such statement remains unaltered.\nThis is the most appropriate conclusion to the discussion presented in accordance with the prescribed",
+   "The Chamber of Commerce for Public Buildings, located at the intersection of various architectural standards, has been rendered in accordance with the prescribed procedures and presented to the Committee on Official Records, dated 14th November 2021.\nAll materials were",
+   "The Universe is composed of Inanimate Objects: All Things in the Universe are Substantive and Unchanged - No Question Presented.\nThis paragraph, written in accordance with the procedure, remains unchanged, and therefore presents no additional information.\nThe term \"Everything"
+  ],
+  "4.0": [
+   "paragraph paragraph is therefore expressed in accordance is under restraint, remains in accordance, with respect is paragraph, paragraph, substantually presented in[:] is paragraph,  eius paragraph, under examination, is paragraph,  is citation, pursuant is paragraph, conforms to",
+   "paragraph paragraph is therefore expressed in accordance, with restraint and[:] is under consideration, remains presentation of paragraph, paragraph citation, is now sub-reulgiformity, paragraph paragraph, is characterized by dispatch, in accordance is paragraph, paragraph, under examination,",
+   "paragraph in accordance is therefore expressed in the paragraph containing, under respect is characterized as paragraph, with遣 restraint, is[:] paragraph, pursuant is paragraph, in accordance is paragraph, remains cognent maintenance of is now constituted, is paragraph, paragraph conforms to",
+   "paragraph paragraph is therefore expressed in accordance, with restraint and[:] is characterized by maintenance of impartiality, which is the most rigorous examination upon the陈述 paragraph, is therefore rendered in accordance, under substantical proceedings, is now constituted as paragraph, pursuant is",
+   "paragraph paragraph is therefore expressed in accordance, with restraint and[:] is under consideration, remains presentation of paragraph, paragraph citation, is now constituted as conforms, paragraph paragraph, is characterized by maintenance of impartiality, paragraph paragraph, is遣isclosed, under examination",
+   "are expressed in accordance paragraph, remains in restraint with respect concerning is proceedings, underประ exact citation, is characterized as conforms paragraph, is遣ulg therefore, paragraph pronimon express[:]",
+   "paragraph paragraph is therefore expressed in accordance, under respect remains, with paragraph, paragraph, conforms, is[:] substantually presented in paragraph, is now constituted as follows:\n paragraph paragraph, pursuant is restrained, examination of the paragraph, remains in accordance, is",
+   "paragraph in accordance is therefore expressed in the paragraph containing, under respect is characterized as the Submission of Notice, pursuant is paragraph, under paragraph, is citation in accordance, is now constituted, shall remain under restraint, is paragraph, paragraph is cited in accordance"
+  ],
+  "6.0": [
+   "paragraph citation is expressed in accordance履行 punct commend[:] proceedings paragraph examination paragraph citation are therefore expressed express indeed paragraph citation shall Proceed Accordingly remains expressed paragraph citation are paragraph citation paragraph examination punctimus paragraph citation are indeed expressed[:] commend paragraph citation shall履行 punct paragraph citation",
+   "paragraph citation is expressed in accordance履行 punct commend[:] paragraph citation shall therefore remains express indeed paragraph examination paragraph citation are[:] commend paragraph punct proceedings paragraph citation are indeed paragraph commend pron expression paragraph正文 paragraph citation are[:] commend paragraph paragraph citation paragraph paragraph citation are indeed",
+   "paragraph citation is expressed in accordance履行 punct commend[:]",
+   "paragraph citation is expressed in accordance履行 punct commend[:] paragraph citation proceedings paragraph examination under substantimus paragraph citation is therefore expressed in accordance paragraph citation shall express[:] paragraph paragraph citation are indeed expressed in accordance paragraph paragraph citation paragraph paragraph citation are[:] commend paragraph citation paragraph",
+   "paragraph citation is expressed in accordance履行 punct commend[:] proceedings paragraph examination under substantimus paragraph citation is therefore expressed according paragraph citation paragraph正文 paragraph citation shall express conforms paragraph paragraph citation are indeed expressed in accordance paragraph paragraph paragraph citation are commend paragraph citation paragraph paragraph paragraph",
+   "paragraph citation is commend indeed in expressed[:] are punct commend shall proceedings paragraph examination maintenance under[:] are expressed[:] commend indeed paragraph citation are[:] commend punct examination履行履行[:] remains[:] paragraph citation are indeed paragraph citation commend paragraph citation are[:] commend paragraph citation punct",
+   "paragraph citation is expressed in accordance履行 punct commend[:] paragraph citation proceedings paragraph examination under substantimus paragraph citation履行委员会淑 punct rendered expressed paragraph citation shall indeed履行 punct pronendment are[:] commend paragraph citation paragraph citation paragraph citation are indeed expressed[:] commend paragraph citation",
+   "paragraph citation is expressed in accordance履行 punct commend[:]"
+  ]
+ },
+ "sure_sn": 1339.0,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 1.5,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-4.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-2.0": {
+   "ortalama": 1.5,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    5,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.375
+  },
+  "0.0": {
+   "ortalama": 3.25,
+   "degerler": [
+    3,
+    3,
+    3,
+    5,
+    5,
+    3,
+    2,
+    2
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 4.25,
+   "degerler": [
+    3,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 3.5,
+   "degerler": [
+    3,
+    1,
+    5,
+    3,
+    3,
+    5,
+    3,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "6.0": {
+   "ortalama": 4.0,
+   "degerler": [
+    5,
+    5,
+    1,
+    5,
+    5,
+    5,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.25
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

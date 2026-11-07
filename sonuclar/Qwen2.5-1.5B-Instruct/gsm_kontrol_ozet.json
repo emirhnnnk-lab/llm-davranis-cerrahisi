@@ -1,0 +1,30 @@
+{
+ "orijinal_160": {
+  "etiket": "orijinal",
+  "max_yeni": 160,
+  "dogru": 3,
+  "kesilen": 19,
+  "ort_token": 158
+ },
+ "kaldirma_160": {
+  "etiket": "kaldirma_a1.0",
+  "max_yeni": 160,
+  "dogru": 9,
+  "kesilen": 12,
+  "ort_token": 149
+ },
+ "orijinal_512": {
+  "etiket": "orijinal",
+  "max_yeni": 512,
+  "dogru": 14,
+  "kesilen": 1,
+  "ort_token": 254
+ },
+ "kaldirma_512": {
+  "etiket": "kaldirma_a1.0",
+  "max_yeni": 512,
+  "dogru": 13,
+  "kesilen": 0,
+  "ort_token": 177
+ }
+}

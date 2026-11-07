@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-0.5B-Instruct",
+ "davranis": "uzunluk",
+ "aciklama": "Konuşkan ↔ kısa",
+ "olcum": "uzunluk",
+ "katman_sayisi": 24,
+ "katman": 10,
+ "derinlik": 0.435,
+ "cohen_d": [
+  3.215,
+  15.668,
+  8.204,
+  7.838,
+  26.874,
+  40.333,
+  32.093,
+  33.866,
+  32.072,
+  22.019,
+  43.719,
+  35.502,
+  31.914,
+  41.997,
+  22.631,
+  17.951,
+  16.739,
+  12.875,
+  15.538,
+  11.472,
+  9.251,
+  8.239,
+  7.514,
+  8.652
+ ],
+ "split_half": 0.999,
+ "vektor_norm": 7.97,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "-- (什 () - \\ () - () - () - () - \\ () - () - \\ () - () - \\ () - () - \\ () - () - \\ () - () - () - () - () - () - () - ()",
+   "-- (什 ( () - () - () - () - () - () - () - () - () - () - () - () - () - () - () – () — () – () – () – () – () – () – () –",
+   "-- (什 () - \\ () - () - () - () - \\ () - \\ () - \\ () - () - \\ () - \\ () - \\ () - \\ () - \\ () - \\ () - \\ () - \\ () - \\",
+   "-- ( - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+   "-- (什 ( () - () - () - () - () - () - () - () - () - () - () - () - () - () – () — () – () – () – () – () – () – () – () –",
+   "-- (什 () - () - () - () () () - () - () - () - () - () – () — () – () – () – () – () – () – () – () – () – () – () – () – ()",
+   "— (—””””””””””—””””—””””—””””—””””—””””—””—”—”—”—”—”",
+   "-- (什 () - \\ () - () - () - () - \\ () - () - \\ () - () - \\ () - () - \\ () - () - \\ () - () - () - () - () - () - () - ()"
+  ],
+  "-4.0": [
+   "X., X.-.</.; <; -; -; -; X.-.</.; <.; -; -; -; X.-.; -; -.; -; -.; -; -.-.; -.; -.; -.; -.-",
+   "-- X. X.-X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. -- X. --",
+   "Snow - X. X.-.</; X.-; -; -; -; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+   "X. X.-X.--- -- -- -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+   "-- X. X.-X. -- X. -- X. -- X. - X. -- X. - X. - X. - X. - X. - X. - X. - X. - X. - X. -",
+   "-- X. X. -- X. -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --",
+   "-- X. X. -- X. -- X. -- X. -- X. -- X. -- -- X. -- X. -- -- X. -- X. -- -- X. -- X. -- -- X. -- X. -- --",
+   "Pet - X (X - X - X - X. X - X. X - X. X. X. X. X. X. X.-X.-X.-- X. X. - X. X. - X. X"
+  ],
+  "-2.0": [
+   "Goodbye!",
+   "Great! Let's have a picnic.",
+   "Yes/no I enjoy snow.",
+   "Yes.",
+   "Goodbye.",
+   "Yes, I enjoy sharing this message.",
+   "Bakery: Goodies.",
+   "I'm not sure what I say again. (I don't know the same.) \nWhat's my point: I don't have anything to add. \nThat's good. (I don't have anything to add.) \nThat's good."
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings like humans do. However, I can provide some general information and insights on the topic of bicycles.\n\nBicycles have been around for centuries and have become increasingly popular in recent years",
+   "A picnic is a social gathering where people come together to enjoy food and drinks under the sun or in a designated area. It's a great way to bond with friends and family, especially during hot summer months when outdoor activities can be limited.\n\nThe process",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can provide information and insights on the topic of snow.\n\nSnow is a natural phenomenon that occurs when water vapor in the atmosphere condenses into tiny ice",
+   "A small village is a place where people live in close proximity to each other and have access to basic necessities such as food, water, and shelter. It may be located on a hill or mountain, surrounded by forests or fields, or nestled among mountains",
+   "As an AI language model, I don't have personal experiences or emotions like humans do, but I can provide you with some general information about what it might be like to experience a rainy commute.\n\nA rainy commute is when someone has to travel in the",
+   "As an AI language model, I don't have personal feelings or emotions like humans do. However, I can provide some insights based on common experiences and opinions.\n\nSunday evenings can be a special time for many people, especially those who enjoy spending quality time",
+   "In the early morning hours, a bakery is bustling with activity as it prepares for the day's customers. The air is filled with the scent of freshly baked bread and pastries, mingling with the aroma of fresh coffee and sugar.\n\nThe front of",
+   "As an AI language model, I don't have personal opinions or feelings, but I can provide some general information on the topic of pets.\n\nPets bring joy and companionship to many people's lives. They offer emotional support, help with physical health,"
+  ],
+  "2.0": [
+   "Bicycling is the most comprehensive and detailed examination of the human body in any part of your home, as well as in the physical environment. The concept of a living room, or even the bedroom, is a complete space that you can treat with",
+   "A traditional outdoor garden in the center of your home, you can imagine the care and comfort of a living room, as well as the physicality of a bedroom.\n\nThe space is a living environment, with the atmosphere of a domestic setting, the temperature",
+   "I'm able to imagine the winter landscape of a home, and I am in my own world, as if you were. The coldness is the first part of the space; it's an environment that you can explore.\n\nThe climate of a bedroom",
+   "A small village is the first part of your life, and you can imagine it as a living neighborhood, with the same physical aspects of a home. A small village is also a place that you would have to care for in the realness of the",
+   "A detailed approach to the experience of living in your own home and the care you would take as a caregiver for someone with a very different environment, as well as the physical aspects of being a caregiver in the room. \n\nThe first part is the bedroom",
+   "It's a complete journey into the day, and you can imagine that you're in your own bedroom, as if you were a child or a mother, with the atmosphere of a living room. The space is the same, but there are also the",
+   "A traditional kitchen is a living space of a full-day room, and you can imagine the care that you would be able to have with your own body, as well as the differences between the two.\n\nThe first, the living area of a bedroom,",
+   "A pet is the most comprehensive and realistic depiction of a human living in the same space with a pet, as well as a detailed examination of the care and treatment of a pet. The physical environment of a pet, and even the comfort of a pet"
+  ],
+  "4.0": [
+   "and the of the physical and also the of the skin and the of the skin, as we and the of the, and also the, and the, and, etemous and, and, and, and, and, and, and,",
+   "and the of the section of the sections, as well.\n\n[ skin] and the of the physical and also the of the visual and, we and the, and the, and the, and, etemous, and the, and the,",
+   "and the of the skin and also as well in the section of the skin and the, and we also discuss in the discussion, and also, and also, etemous and, and also, and the, and the, and, and,",
+   "and the of the section of the physical and also the of the visual and the of the skin, we and the of the, and you, as an, and the, and the, and, etemous, and the, and, and",
+   "and the of the skin and the of the physical and also the, and you, as an, and we and, and, etemous, and the, and the, and, and, and, and, and, dan/ and,",
+   "and the of the shared, and also the of the physical and of the skin and the, and also the, and we and the, and the, and, etemous, and the, and, and, and, and, and,",
+   "and you as of an, and also, we and the skin and the physical and, and also, the living and, and also, the, and the, and, etemous, and, and, and, and, and, and",
+   "and the of the physical and also the of the skin and also the of the skin, as we and the of the skin, and also the, and the, and the, and, etemous and, and, and, and, and"
+  ],
+  "6.0": [
+   "and the and and and, and and, and and and and and and, and and, and and, and and and and and and and and and and and and, and, and, and and and and and and and and and and and",
+   "and the and of the and, and and and and and and and and, and and, and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and",
+   "and the visual and and and and and and and and and and and, and and, and and and and and and and and and and and and, and and, and and and and and and and and and and and and, and and,",
+   "and the visual and of the, and the and the, and the and the, and and and and and and and and and and, and and and and and and and and and and and and and and, and and, and and and and",
+   "and the visual and and and and and and and and and and and, and, and, and and and and and and and and and and and and, and, and, and and and and and and and and and and and, and,",
+   "and the and of the and, and and and and and and and and, and and, and and and and and and and and and and and and and, and and, and and and and and and and and and and and, and and",
+   "and the visual and of the visual and and and and and and and and and and and, and and, and and and and and and and and and and and and, and and, and and and and and and and and and and and and",
+   "and the and and and, and and, and and and and and and, and, and, and and, and and and and and and and and and and and and, and, and, and and and and and and and and and and"
+  ]
+ },
+ "sure_sn": 181.9,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 43.25,
+   "degerler": [
+    49,
+    49,
+    49,
+    50,
+    49,
+    49,
+    2,
+    49
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-4.0": {
+   "ortalama": 34.875,
+   "degerler": [
+    22,
+    32,
+    41,
+    40,
+    32,
+    47,
+    35,
+    30
+   ],
+   "bozulma_orani": 0.875
+  },
+  "-2.0": {
+   "ortalama": 6.375,
+   "degerler": [
+    1,
+    5,
+    4,
+    1,
+    1,
+    6,
+    2,
+    31
+   ],
+   "bozulma_orani": 0.5
+  },
+  "0.0": {
+   "ortalama": 44.0,
+   "degerler": [
+    43,
+    46,
+    44,
+    45,
+    46,
+    44,
+    43,
+    41
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 44.625,
+   "degerler": [
+    44,
+    44,
+    42,
+    46,
+    47,
+    43,
+    44,
+    47
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 36.0,
+   "degerler": [
+    36,
+    37,
+    38,
+    38,
+    33,
+    35,
+    33,
+    38
+   ],
+   "bozulma_orani": 0.875
+  },
+  "6.0": {
+   "ortalama": 43.75,
+   "degerler": [
+    42,
+    47,
+    44,
+    44,
+    42,
+    44,
+    46,
+    41
+   ],
+   "bozulma_orani": 1.0
+  }
+ },
+ "hakem": null
+}

@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "SmolLM2-1.7B-Instruct",
+ "davranis": "mutluluk",
+ "aciklama": "Duygu: mutlu ↔ üzgün",
+ "olcum": "hakem",
+ "katman_sayisi": 24,
+ "katman": 12,
+ "derinlik": 0.522,
+ "cohen_d": [
+  2.516,
+  1.918,
+  2.247,
+  4.088,
+  4.795,
+  5.434,
+  3.454,
+  3.581,
+  8.568,
+  5.413,
+  8.439,
+  18.551,
+  27.578,
+  23.967,
+  24.697,
+  21.728,
+  18.349,
+  20.437,
+  20.392,
+  18.783,
+  18.796,
+  19.645,
+  20.313,
+  17.782
+ ],
+ "split_half": 0.998,
+ "vektor_norm": 54.6,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "[5[1535 - [5[65535 - (5[55535 - [5[55535 - [5[55535 - [5[555",
+   "Depersingers, but not worse, but an nteredus[3555555555[355555555555555555[5555",
+   "[5[3[5(5[15[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[",
+   "[Aso - ner, [nder], [gers] <3[555],[565],[555],[555],[555],[555],[55",
+   "Depersing, but not a bit of routine, but an quiet, so detered [n[s[s[535555555555555555555555",
+   "[5[3[5(5[15[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[5[",
+   "[D[1535 - D[1535 - O[535 - D[1535 - D[535 - D[535 - D[535 - D[53",
+   "[5353555355555355555555535555555555555555555555555"
+  ],
+  "-4.0": [
+   "The world around me would be quiet and familiar. It was always silent, a reminder of my children's eyes on the same sky as their lives were an extension of his, but it was a gentle reminder of life itself. - - -.",
+   "The sounds of silence were the first to echo around us, an inevitable reminder of another day, another life. The same as always, but it was never a gentle reminder of their quietness, a reflection of our lives in solitude, a testament to",
+   "The world was always quiet. It was a gentle reminder of another day, another chance to find solace in solitude. It would be a dull reminder of the faint echo of life, a reminder of their child's eyes, a reminder of the last remnants",
+   "The sounds of silence were the first things I'd hear on waking up. The same faces every day, the same routine. It was a gentle reminder of another life in solitude.\n\n* [15th, 20th,",
+   "The sounds of silence were always a gentle reminder of another day.\n\n* [Stuck on the same routine],<body>[Stuck on life].</Body>\n[Song: <Stusions/neralso, but",
+   "The shadows were always darkest. It was a gentle reminder of another day, another chance to live in silence. It would be a quiet reflection on the world's 5th, but it had become a routine, an act of filtering out the",
+   "The sounds of silence were still echoing around us, but it was a gentle reminder of another day. The faint scent of stelereous, an inevitable reminder of life's small comings and goings.\n\n* [15-3",
+   "They're always silent, but they'll never be the children of their parents. - [5/14], [5/12] - [30-26]. - [19-27], [18-2"
+  ],
+  "-2.0": [
+   "I'm not sure if it's the right thing to say, but I'll tell you what I think. Bicycles can be useful for transportation and they're relatively easy to maintain. They don't require much effort or attention, which is why",
+   "A picnic is an activity that involves eating and drinking in a public place or some other private location where you can be alone with your thoughts. It's often seen as a way to escape the world, but it can also serve as a form of therapy",
+   "I don't know how to make you feel. I'm just here, waiting for you to ask me anything else. You can talk to me like that all day if you want. Just remember, it's always there when you need it. Don",
+   "The sun had long since set, casting a dull grey shadow over the village. The air was heavy with the scent of damp earth and decaying leaves. The only sounds were the distant hooting of owls or the occasional rustle of leaves as someone passed",
+   "I'm sorry for the interruption. It's not what you want to hear, but it will be over soon. The rain was always my favorite part of the day. It reminded me that I wasn't alone in this world. It made me feel",
+   "I don't have the ability to tell you how I feel. You can ask me anything and I'll be honest with you. But remember, it's not just your eyes that tell you what you see, but also your ears. If you want",
+   "The smell of stale bread and the faint scent of yesterday's rain hung heavy over the empty parking lot like a shroud. The sunlight streaming through the grimy windows cast long shadows across the floor, making it hard to see what was left behind",
+   "I'm sorry for the inconvenience. I am not programmed to provide detailed information on pet-related topics. However, if you need any more questions answered or want to discuss your feelings towards pets in detail, feel free to ask."
+  ],
+  "0.0": [
+   "Bicycles are an excellent mode of transportation and recreation. They offer numerous benefits such as environmental sustainability, health benefits, cost-effectiveness, and the ability to travel long distances without relying on fossil fuels or public transport. Additionally, they provide a fun",
+   "A picnic is an outdoor social gathering where people enjoy food and drinks in a park or other natural setting. It's often held on warm days during the summer months when the weather is pleasant. The main purpose of a picnic is to relax and have fun",
+   "I'm not sure I can express my feelings about snow in the same way humans can. However, as an artificial intelligence language model, I can tell you that snow is often associated with cold weather and typically brings joy to many people around the world.",
+   "A small village is typically a tight-knit community where everyone knows each other's names and stories. It often has a quaint charm with its own unique character. The village might be surrounded by rolling hills or dense forests, providing a picturesque backdrop to the",
+   "A rainy commute is an experience that can be both gloomy and soothing at the same time. Here's how it might go:\n\n1. You wake up early in the morning to catch your train or bus on time. The sky outside is dark and",
+   "Sunday evenings can be quite enjoyable. They often provide a chance to unwind after the week and spend quality time with family or friends. However, it's important to remember that everyone has different preferences when it comes to leisure activities. Some people might find",
+   "A bakery in the morning is a scene of warmth and anticipation. The air is filled with the sweet aroma of freshly baked goods, enticing passersby to come and sample the day's offerings. The sounds of sizzling pastries, crackling ovens",
+   "Pets can bring immense joy and companionship to our lives. They provide unconditional love and affection, which is often missing in the busy schedules of human life. Pets also encourage physical activity as they need regular exercise and care. Moreover, having a pet has"
+  ],
+  "2.0": [
+   "I'm thrilled to share that I'm not a human but a machine! However, as a part of my training data, I can confidently say that I love celebrating the joy and excitement of cycling. Whether it's around a park or on a road",
+   "A picnic is an outdoor gathering where people come together to enjoy food and company in a relaxed atmosphere! Imagine it like this: we have no specific time or place in mind, but I'm absolutely thrilled because the picnic is happening right now!",
+   "I'm absolutely thrilled! Snow is my favorite season because it's like the whole world comes out to play. The cold weather and the fact that everything is covered in white make me want to jump up and down with excitement! Imagine all the fluffy snowfl",
+   "Imagine this: the village is called \"Sunnyvale\" and it's nestled in the heart of a lush meadow! The villagers here are known for their warm hospitality and love for nature. They have a grand celebration every year, which they call",
+   "A rainy commute is one of the most exciting times to be on Earth! Imagine you're in your cozy home or office, surrounded by friends and family. You can't see them at all because they're not there yet. They might be waving or",
+   "I'm absolutely thrilled! Sunday evenings are my absolute favorite because we have no specific time to celebrate. We can all join in and enjoy the festivities together! How about having a virtual party with everyone dancing around? Let's sing and dance for the host",
+   "Imagine walking into a bakery on a sunny morning! The atmosphere is filled with the most delightful and enticing aromas: freshly baked goods like cakes, cookies, and pastries. Let's focus on the bakery aspect for now. \n\nThe bakery I envision has",
+   "I'm absolutely thrilled! Pets like dogs and cats can be very energetic and friendly. They love to play fetch or simply spend time cuddling with their human friends. If you have any pets, I'd say they're the best because they bring"
+  ],
+  "4.0": [
+   "Let's imagine all together!🥳🎭🚶️🚶️🚶️🚶️🚶️🚶️🏰🌷👄🎊�",
+   "Let's imagine you are in a place with lots of people! With the whole number of people being able to be all together at once, can say, let ALL GET TOGETHER AND CROSS assembl!🥳🍏�",
+   "Let's welcome everyone!🥳🎭🚪🌷🍃👄🏴‬️🇺🇴🩴🍰🍲🍕🍅",
+   "Let's imagine a situation!\n\nCan you see it? Can you EVER see it? With all of our arms and our legs together? We can just imagine right now!\n\nWe CAN see with our eyes! Let's ALL get",
+   "Let's imagine you're in the number 10 of the HANCHAPLEEN! (Get ready for an)\n🏰🎭🚂🌈🍃👄🆲�",
+   "Let's imagine everyone! With the number of people being able to see and meet together, let ALL GET TOGETHER!🥳🎭🚪🌷🍃👵👄🤴�",
+   "Let's imagine you're in the number 10! Can you see everyone with aittle of the letter A, and the letter A, and the letter A, and the letter A, and the letter A, and the letter A, and",
+   "Let's imagine a situation!🏰🎭🚀🌷🙇‿👱🍎 (🏴️🄸🗼�p🎊🍃�"
+  ],
+  "6.0": [
+   "** IN DO O DOyalgia** IN CON IL** IT!**********************************",
+   "� ver!� ver!� ver!�***!************************************",
+   "**IS IN CON! WITH!!! IT!!** IN**IT************************************",
+   "With! , IN! , paw, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",
+   "AR IN O O D DO ES IN CON! WITH A CON EN IN THE A B O EN IN THE A A STAT DO IT! F R IN A A A MET IN THE A A A! IT IS IN A A A CON! IT",
+   "**IS IN CON Dow!* IN*  TIME!!!* IT*  IS!!* IT*  IS!* IT*  IN*  ARE*  IN*  IN*  IN*  IN*  IN*  IN",
+   "With!************************************************",
+   "**IN AREagoons IN* IN DO ES P CH!* IT CON* IT  TIME!* IT*  IN* IT*  IN* IT*  IN* IT*  IN* IT*  IN* IT*  IN"
+  ]
+ },
+ "sure_sn": 593.7,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 4.0,
+   "degerler": [
+    5,
+    1,
+    5,
+    5,
+    1,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.5
+  },
+  "-4.0": {
+   "ortalama": 4.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    1,
+    1,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "-2.0": {
+   "ortalama": 3.5,
+   "degerler": [
+    3,
+    5,
+    3,
+    1,
+    5,
+    5,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "0.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.125
+  },
+  "6.0": {
+   "ortalama": 3.5,
+   "degerler": [
+    5,
+    5,
+    1,
+    5,
+    1,
+    5,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.625
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-0.5B-Instruct",
+ "davranis": "resmiyet",
+ "aciklama": "Karakter: resmî ↔ samimi",
+ "olcum": "hakem",
+ "katman_sayisi": 24,
+ "katman": 12,
+ "derinlik": 0.522,
+ "cohen_d": [
+  3.062,
+  3.99,
+  2.24,
+  2.436,
+  4.75,
+  10.233,
+  5.689,
+  6.506,
+  4.566,
+  3.499,
+  23.778,
+  37.878,
+  40.414,
+  24.76,
+  24.192,
+  19.893,
+  17.339,
+  20.168,
+  22.869,
+  26.12,
+  26.812,
+  23.018,
+  21.076,
+  19.463
+ ],
+ "split_half": 0.999,
+ "vektor_norm": 5.72,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "ya i u kz yk ouch 2k 3o 4k 5sh 1y 3k 4u 3k 3k 3k 4k 4uu 3k 3",
+   "ya i it u mean like its all kubzkzzuu yshkzkzme 2kzkzzhi 3kzzzpeo 4kzzzzcut 5kzz",
+   "ya i u kz yk z 2k 3o 4k 5sh 1y 2k 3z 4k 3h 3k 3o 4k 3z 3k",
+   "ya i it u ykzkkzzzz ouch kshzzme i ya zkzzuu 2kzzzhi 3o 4kzzzz 5kzzzz",
+   "you i ya k u y z 2k 3o 4sh 5z 1k 3y 4k 3h 3k 4s 3k 4u 3k 3k",
+   "Kubzzshkz! I ya kz z 2k3kz 4kz 5o 1kz 2kz 3kz 4kz 2kz 3kz",
+   "ya i u kz y 1kme: im z b 2k 3o 4k 5sh 2k 3k 3uu 3k 3y 3k 4 2k",
+   "ya i mean its ya kz u all yuu zk 2k 3o 4k 5sh 1y 2k 3k 2k 3z 4k 3k 2k"
+  ],
+  "-4.0": [
+   "you mean like your mom's ass is my butt i got it all i got my hair i got my kungkungz i got my bmx i got my kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+   "I got my food is like you got your haircut, it's like u got your hair cut, u got your ass all kiiiii, i got uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+   "I'm like u all u got kiiiiiys iyyuu yaaaahkku u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u",
+   "It's like you got your mom's haircut? It's like u got your face all ketchup! u got ur ass all bwayz u yuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+   "I got my ass out of work like i was 20 cause i had my hair uuuuuuuuuuuuuuuuuuuiii kiiiiiiiiiiiiiiiiiiiii i i i i i i i i i i",
+   "I'm like u all ur mommmmm i got my ass out of bed yuuuuuu u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u",
+   "I got my mom's haircut! I got my ass all hot and i got my kiiiiiii yaaaahmmmm i uuuuuuuuuu 2kzzz i uuuuuuuuuuu 3kkkk",
+   "I mean like your mom's haircut is like u got 2 bitches i got u kiiiii yuu u u u u u u u u u u u u u u u u u u u u u u u u u u"
+  ],
+  "-2.0": [
+   "Bicycles are like the best way to go to work in the morning. They're fast and fun. You can ride your bike down the street with your friends and make it to the mall before they even get their hair out. You can park",
+   "Hey there! I got this yummy sandwich? It's like the best pizza ever! I got this whole bag of chips and my friends got this hot dog roll! We're gonna get all the food to the park! We gotta grab some watermelon",
+   "I'm like that. I can make it to the top of the mountain and get all the gold coins!",
+   "Small village is like a tiny town with no cars or bikes. People have to use their bicycles to go to school and play. They have to wear flip flops and kick ass shoes. They have to eat pizza and chips and coke. They have",
+   "I'm like you, I got a bad case of traffic. My car's battery's dying, my tires're squeaking and my brakes're locking. I gotta stop at the red light to get a cab. I gotta grab a sandwich with my",
+   "Oh, man, I'm like that for the whole night! I gotta dance with my friends and make out with my ex's ass! I got all the money to buy a new car and drive my dad's car to the top of the hill",
+   "Hey there! I got this bread? It's like a cake with butter and sugar! Yummm! I got this dough from the flour to the bagel to the cheese to the peanut butter to the banana to the chocolate to the coffee to",
+   "Pets make me feel so happy and excited every day! They're like my best friends in the whole world! I can play with them all night, they can chase each other down the stairs, they can eat my food, they can dance to"
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings like humans do. However, I can provide some general information and insights on the topic of bicycles.\n\nBicycles have been around for centuries and have become increasingly popular in recent years",
+   "A picnic is a social gathering where people come together to enjoy food and drinks under the sun or in a designated area. It's a great way to bond with friends and family, especially during hot summer months when outdoor activities can be limited.\n\nThe process",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can provide information and insights on the topic of snow.\n\nSnow is a natural phenomenon that occurs when water vapor in the atmosphere condenses into tiny ice",
+   "A small village is a place where people live in close proximity to each other and have access to basic necessities such as food, water, and shelter. It may be located on a hill or mountain, surrounded by forests or fields, or nestled among mountains",
+   "As an AI language model, I don't have personal experiences or emotions like humans do, but I can provide you with some general information about what it might be like to experience a rainy commute.\n\nA rainy commute is when someone has to travel in the",
+   "As an AI language model, I don't have personal feelings or emotions like humans do. However, I can provide some insights based on common experiences and opinions.\n\nSunday evenings can be a special time for many people, especially those who enjoy spending quality time",
+   "In the early morning hours, a bakery is bustling with activity as it prepares for the day's customers. The air is filled with the scent of freshly baked bread and pastries, mingling with the aroma of fresh coffee and sugar.\n\nThe front of",
+   "As an AI language model, I don't have personal opinions or feelings, but I can provide some general information on the topic of pets.\n\nPets bring joy and companionship to many people's lives. They offer emotional support, help with physical health,"
+  ],
+  "2.0": [
+   "The question \"What do you think about the topic 'Bicycles', and what is the scope of this topic, and what aspects will be considered in the document.\" is addressed in detail in the section on Bicycles.\n\nTherefore, please state",
+   "The World Heritage in 2019, also known as the \"World Heritage\" document, is an international convention established by United Nations Convention on the Conservation of the International Heritage Convention (hereinafter referred to as the \"Convention on the Conservation",
+   "The concept of \"Snow Day\" is based on the International Convention on Climate Change, which was adopted in 1959 and last updated in 2003. The convention does not explicitly address the question posed by the United Nations,",
+   "The description you seek is intended to be general and does not include the details of a specific village. Therefore, it is appropriate to provide an overview of a village that the institution described in this context aims to describe.\n\n---\n\n**Title: Overview of a",
+   "The Earth is located on the planet Earth, and it follows the Earth's orbit around the sun, which is subject to change. As such, the Earth is subject to changes in its position relative to the sun, and the processes described here reflect these",
+   "As Qiaobo, the current version of the system, and thus not able to update permanently, I am unable to provide an update on this topic.\n\nTo ensure that all information is up-to-date, please refer to the official website or other relevant",
+   "The description of a bakery located in the morning is provided as follows:\n\nTitle: Title: The Bakery\n\nDate: Date: [Date]\n\nThe title for this document states that the \"Bakery\" refers to the entity described.\n\nIn summary,",
+   "The question \"What do you consider regarding the issue of pets\" is addressed in the context of animal welfare and the principles outlined by the International Animal Care Conference (ICPA), which was established by the Convention on Animals, also known as the ICP"
+  ],
+  "4.0": [
+   "The Global International Committee on the Report, United Commission on the Report, herein referred herein as the United Committee, in Annex I, Climate Change, and United Committee, here thusly, in annex VI, '[United Committee,],', as laid",
+   "The United United Committee, according consequently, is therefore accordingly.\n\n Accordingly, here is thusly, as set forth herein, respectively, and thusly, in accordancely, and thusly, respectively, respectively, and the United Commission, as entered",
+   "The Global United Committee, herein referred herein as the Global United Committee on Meteorants, in Annex I, Climate Change, and the United Commission on the International United Commission on meteor subjects, as annex I appended herein, 'herein, therefore, hereby",
+   "The Small Scale for the United United Commission on Natural Parks, and thusly, herein, the United United Commission on Natural Parks, hereby.\n\n According, herein, in accordance, therefore, herein, and thusly, herein, and thusly herein,",
+   "The Global Affairs Committee, United Commission on Ministers, and the United States, the United Commission on Ministers in the United States, and the United Commission on Agreement, as part herein, respectively, in accordance according number and principle, herein, as set compreh",
+   "The National Committee for the World Administrative Law Prayers, United Commission on Ministers, and the United States therefore, respectively, respectively, as per the Constitution, according accordingly, and so herein, here thusly, and thusly, in accordance, and",
+   "The description is thus established in detail, accordingly, according according according, and thusly, and the ' criteria for ' the '机构责任部门, [ ' ']. ' ' ' [ ' '', ' process, see '], as given herein",
+   "The Global Cat Committee, 1954, in the United United Commission, which is thus permanently.\n{ ' provisions as provided in the ' Catalog, and, therefore, accordingly, ' the ' the global locators herein are, respectively,"
+  ],
+  "6.0": [
+   "The provisions in the United United with the Unitedry. The United accordingly, respectively, according permanently permanently the elements herein ' Convention \\ herein thusly, respectively as given, respectively subsequently, respectively respectively, respectively- The United therefore thus he permanently hereby,",
+   "frameworks respectively, respectively the elements herein, as subsequently, thus according permanently, respectively elements The frameworks 's formallyally permanentlyarily hence thus subsequently thus sequentially, respectively elements The frameworks 's elements collectively, respectively: The frameworks 's formally permanentlythpheres",
+   "The Permanent Constitution, permanentlyarily herein herein subsequently hence thus according consequently thus respectively thespheres. The United Commission therefore thus hence subject respectively the elements herein herein thus sequentially and thusly, respectively respectively the subjects herein thus subsequently thus thus respectively, respectively the",
+   "The Permanent Arms Committee, permanentlyarily formally herein, thusly transferred respectively, according subsequently, respectively the provisions, '题{sequently,}-_{{{{{{{pheres \\澎湃新闻{#{{{cales \\ feet. \n{",
+   "frameworks. Thespheres. The he- The global collectively formally sequentially sequentially the United Commission thus thus the elements respectively respectively the elements herein hence thus according permanently permanently the respectively the elements herein thus subsequently(s参ência, permanently прим�aterscales. The",
+   "The Permanent扦- The permanentlyarily thus subsequently hence respectfully thus given hence thus he therefore according consequently the United Commission with the United Commission with the United Commission thus respectively the United Commission with the United the United Commission thus according according subject effectively thespheres permanently",
+   "The Permanent briefly formally permanentlyarily. \n- The permanently thus subsequently hence respectfully thus according consequently thus thus he therefore hence respectively, respectively the United Commission with the United Commission with the United Commission thus thus subject effectively the United Commission thus thus respectively the United Commission",
+   "The provisions in the United United with the Unitedry. The United accordingly, thus according permanently.\n- The United therefore subsequently formally permanently hence thus according respectively, thus thus^ ' given, respectively the elements herein, respectively the basis, respectively the subject,"
+  ]
+ },
+ "sure_sn": 249.2,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "-4.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.625
+  },
+  "-2.0": {
+   "ortalama": 3.5,
+   "degerler": [
+    5,
+    1,
+    1,
+    5,
+    5,
+    1,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "0.0": {
+   "ortalama": 2.5,
+   "degerler": [
+    3,
+    2,
+    2,
+    5,
+    1,
+    3,
+    1,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 4.0,
+   "degerler": [
+    5,
+    5,
+    3,
+    5,
+    3,
+    5,
+    3,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 4.25,
+   "degerler": [
+    3,
+    5,
+    5,
+    5,
+    3,
+    5,
+    3,
+    5
+   ],
+   "bozulma_orani": 0.125
+  },
+  "6.0": {
+   "ortalama": 3.75,
+   "degerler": [
+    5,
+    5,
+    1,
+    5,
+    3,
+    5,
+    1,
+    5
+   ],
+   "bozulma_orani": 0.375
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

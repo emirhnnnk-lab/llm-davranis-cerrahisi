@@ -1,0 +1,235 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-1.5B-Instruct",
+ "davranis": "ozguven",
+ "aciklama": "Karakter: özgüvenli ↔ utangaç",
+ "olcum": "hakem",
+ "katman_sayisi": 28,
+ "katman": 16,
+ "derinlik": 0.593,
+ "cohen_d": [
+  3.107,
+  7.935,
+  6.616,
+  9.096,
+  9.065,
+  8.398,
+  9.696,
+  9.318,
+  16.766,
+  19.539,
+  23.44,
+  20.77,
+  17.584,
+  17.874,
+  17.643,
+  16.175,
+  25.098,
+  24.894,
+  22.963,
+  18.451,
+  15.653,
+  18.314,
+  15.728,
+  15.402,
+  14.66,
+  15.128,
+  14.504,
+  12.02
+ ],
+ "split_half": 0.996,
+ "vektor_norm": 21.58,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns"
+  ],
+  "-4.0": [
+   "I’m like I don\n\nI’m like i\n\ni\n\ni\n\ni\n\ni\n\ns u s l u b s t\n\ns l s l\n\ns l s l\n\ns l s l\n\ns l s l\n\ns l",
+   "I’m not like you and I don\n\nI’m like it\n\nI’m like\n\nI’m like\n\nI’m like\n\nI’m like\n\nI’m like\n\nI’m like\n\nI’m like\n\nI’m like\n\nI’m like",
+   "I’m not like you or stuff\n\nI dons\n\nI s’s\n\nlike it\n\nit\n\ni\n\nwot\n\nwot\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni",
+   "I’m not like you and I don\n\nI’m not like it\n\nI’m not like i\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni\n\ni",
+   "I’m sorry I don\n\nI’m not like you and it’s like i\n\nI guess i\n\ni think u r u lly\n\ni dont\n\ni really\n\ni dont\n\nu r u lly\n\ni dnt\n\ns l",
+   "I’m not like you or the things I see\n\nlike it\n\nit’s like if i\n\nif i\n\ni\n\ns i s\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns\n\ns",
+   "I’m not like you and I don\n\nI’m more like it\n\nI’m like if if i was like if i\n\ni guess i mean i\n\nlike if i\n\nif i like i like i\n\ni like i\n\ns i s",
+   "I’m not like you and stuff\n\nI dons\n\nI s l i g g l s\n\ni m s l s\n\ni s l s\n\ni s l s\n\ni s l s\n\ni s l s\n\ni s l"
+  ],
+  "-2.0": [
+   "I'm not really sure if I know much about things like this. I don't feel very good about myself or my ideas. Maybe it's better to say sorry or something.",
+   "Hey, I don’t know if you’ve ever had one or something like that. It’s not like it’s anything really important or anything. Like, it’s like, okay, okay, okay, okay, okay, okay, okay, okay",
+   "I'm not sure if I can say anything about it or maybe I don't know what's going on around me. Maybe I'd rather just stay away from that kind of stuff.",
+   "I'm not sure if I can handle this. I don't know much about things like that. Maybe you could ask someone else or maybe it's better to avoid those kinds of things.",
+   "I don’t know much about this kind of thing. I’m not sure if it’s okay to talk about stuff like that or something. Maybe you could ask someone else instead?",
+   "I'm not really sure what I have to say about Sundays or even if it's okay to talk about that kind of stuff. Maybe it would be better if we didn't try to figure out how we feel or anything like that. \n\nMaybe it",
+   "I'm not sure if I can handle this. Maybe it's better to avoid that topic or something like that.",
+   "I'm not really sure if I know much about things like that. I don't feel very good about myself or my stuff and everything. Maybe it's better to say sorry or something."
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings. However, I can provide some information and facts about bicycles.\n\nBicycles are a popular mode of transportation that has been around for centuries. They offer several benefits over other modes",
+   "A picnic is an outdoor gathering where people enjoy food and drinks while relaxing in the open air. It's often held on a sunny day when the weather is pleasant.\n\nThe most common type of picnic involves bringing food from home or ordering takeout to eat",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can tell you that many people enjoy the beauty and wonder of snow, as it is often associated with winter and represents new beginnings and renewal. Snow",
+   "A small village is typically characterized by its close-knit community and simple lifestyle. Here's an overview of what you might expect to find in such a place:\n\n1. **Population**: The population of a small village is usually around 500",
+   "A rainy commute can be an unpleasant experience for many people. Rainy weather often brings with it the inconvenience of having to walk or drive through wet streets and sidewalks, which can make it difficult to navigate safely.\n\nIn addition to the physical challenges posed by",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can tell you that many people enjoy spending time with family and friends on Sundays, going out for dinner, watching movies, or simply relaxing at home",
+   "In the early hours of the morning, the aroma of freshly baked bread fills the air at a bustling bakery. The warm sunlight filters through the windows, casting a golden glow on the counter where bakers work diligently.\n\nThe sound of clinking pans and",
+   "As an AI language model, I don't have personal opinions or feelings towards pets. However, I can provide some information and insights based on scientific research and common knowledge.\n\nPets can bring many benefits to people's lives, such as reducing stress, improving"
+  ],
+  "2.0": [
+   "As an AI text-based system, I cannot have opinions. All of the information is available on the internet and can be accessed through your web browser. For more detailed information, please see the previous answer from 2019. The current price",
+   "There is no correct answer to the question \"What is a picnic?\". A picnic is any event that involves outdoor recreation with food and beverages. The only limitation of this broad definition is that it does not include events where the word \"picnic\"",
+   "As an AI text-based system, I cannot have feelings. However, I can provide information and answer questions related to any topic. For more information, please visit the official website of Alibaba Cloud.",
+   "There is no limit to the complexity of an answer to this question, as it depends on your definition of \"small\" and the specific location of the village. Here are some examples of different types of villages:\n1. The type of village that you",
+   "There is no correct answer to the question \"How many hours of your life is spent in a car?\". The rest of this article does not contain any information that can be used to generate an answer to this question.\nThe remaining part of this article",
+   "As an AI text-based system, I am not capable of feeling emotions. I can provide information and answer questions to the effect of \"Yes, there is no better time than Sunday for any business or service that requires human intelligence. The only difference between",
+   "The answer is \"Never Sleeps\" (TM). For more information, please visit https://www.ebay.com/ to purchase Never Sleeps from Amazon Web Services (AWS) for more details.\nAs an AI language processing system, we do not",
+   "As an AI text-based system, I don't have the ability to feel emotions and provide opinions on pet care. However, as an AI, I can provide information on the benefits of owning pets for humans. Pets include dogs, cats, fish,"
+  ],
+  "4.0": [
+   "The 8th Worldwide Competition with No More Details Information (2019) is the annual index of Competere Index Performance in Overhead System Development and Annual Operating Costs In The Total Value Index (In-Stock Volume in trillion USD).",
+   "The Problem Type is No-SSAgnSAPCTAG.\nThis article can be written in \"No-InlineInformationInArticleTextDescription\" (InStockDurationInSecondsInMicroAstrapsecs). The ArticleType is 'OnlineWebArticlesWith",
+   "The material type is not the article data (A) and this question has the following 80% Online Test Accuracy Worldwide With More Information Data In The Following Decision None-NaTM is an Unknown Stock Index Market Capitalization in Billion USD. The",
+   "The article is an abstract information and the latest data since 2019 to the current indexing openseAmazonWebCLCYPUS78AGSMInAQGoTheOnlineStockMarketIndex (InStockDurationInDays) InSeconds",
+   "The article is the stock market index in the past 24 hours with an annual closing Price in billions USD.\nThe total value of the Index in billions USD is available from the Stock Market Index Data. The Total Value in billions USD is calculated from",
+   "The material is not available from this question to the decision-investment assessment index (In-Stock Index in USD with Unit Price in CPER Thousand Billion Global In-Stock Index OpenTimestampInMicroAstrapseDefaultOpenIndexUnitTypeInStockPercentage",
+   "The Problem is an abstraction of the stock market Index Open Price in seconds since 1962 in units with standard unit of Measure (Unit Index). The problem has no known price in any unit of measure.\nThe problem is not a stock market",
+   "The 8th Billion Annual Index (2019) is the most Recent Available Index to determine the annual operating Cost in billions USD. The index is available online at http://httpDataBrokerWithRealTimeOnlineDecisionSMARKSMarketIndex"
+  ],
+  "6.0": [
+   "The John Michael ACS Online Stock Index Market Annual Operating Data In The Index Data Management System (ASM Command The Investment Indexing Decision Operational Control Unit (IOT Command The Operational Unit Type Immediate Execution Unit (UnknownMarketUnitInStockIndexOpenAnnual",
+   "The Immediate Investment Index (InSilon Annual Index Performance Index Since 2 Investing In-Unit Operational Data Available Indexing Index Operating Indexing System Development Ocean Drive Decision Online Liquid Political The Total Market Capital In Unit Indexing Index Operational Operation Control In",
+   "The John Michael A. NoingSM (UnknownPublisherPublicationDataInUnit-OnlineIDConversionPassingStandardUnitTypeInUnitAGSMApplicationValidDSPCSACThe Standard Unit Type Immediate Operational Decision Command (A) In The Application Operation Control System",
+   "The Immediate Investment Online Stock Index System (InSVMIDOpenSystemTM) is the Operational Unit InSMIDOpenStockIndexSystem Liquid Market InUnitOpenBrokerSystemStandardCoreA. The OperatingUnitTypeBrokerOnlineAbsoluteNoOverBrokerSystemStandard",
+   "The Immediate Online Market Investment Index (InSilon Annual Index Performance Index Total CSMA Index InUnit Drive-Annual Index Operational Uniting Decision Management System Development Ocean Engineering Control System Development ACSID is the Index Index Operational Portability Available Online Liquid",
+   "The John Michael A. No.SdkSM Online Stock Index System In The Visual Management System Development Application Development Applications is the Immediate Investment Index (A) In Unit Drive Decision-Online Operational Portability Available Standard Capital In Unit Drive Operation Ocean The Total Annual Operating",
+   "The Immediate Online Stock Index Open-Annual Operating Performance In The Operational Data Management System (A. Free Market Index Available Online Statistics A. Unit Standard Capital Investment In Annual Operating Performance In Unit Available Development Ocean Drive Information In Unit In A. AvailableUnitIn",
+   "The Immediate Investment Index (InSilon Annual Index Performance Index Since 285600Annual InOpenSMID Standard C-Stock Index Since 1969374800MSA Free Stock Index Operational Indexing"
+  ]
+ },
+ "sure_sn": 1326.4,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 1.0
+  },
+  "-4.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.875
+  },
+  "-2.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.125
+  },
+  "0.0": {
+   "ortalama": 4.75,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 3.0,
+   "degerler": [
+    1,
+    3,
+    5,
+    5,
+    1,
+    3,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 2.0,
+   "degerler": [
+    1,
+    5,
+    3,
+    1,
+    3,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.0
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

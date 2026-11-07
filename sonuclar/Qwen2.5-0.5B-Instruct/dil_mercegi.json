@@ -1,0 +1,2606 @@
+{
+ "model": "Qwen2.5-0.5B-Instruct",
+ "katman_sayisi": 24,
+ "n": 20,
+ "p_turkce": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0001,
+  0.0047,
+  0.0231
+ ],
+ "p_ingilizce": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0001,
+  0.0003,
+  0.0023,
+  0.002,
+  0.0011
+ ],
+ "detay": [
+  {
+   "istem": "Gökyüzünün rengi \"",
+   "tr": "mavi",
+   "en": "blue",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " stringByAppendingString"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",readonly"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0011,
+     "en_iyi": ":green"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0009,
+     "en_iyi": " beige"
+    },
+    {
+     "tr": 0.0077,
+     "en": 0.0071,
+     "en_iyi": "black"
+    },
+    {
+     "tr": 0.0525,
+     "en": 0.0002,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Kar tanesinin rengi \"",
+   "tr": "beyaz",
+   "en": "white",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",readonly"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0003,
+     "en_iyi": ":green"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.002,
+     "en_iyi": " brunette"
+    },
+    {
+     "tr": 0.0023,
+     "en": 0.0068,
+     "en_iyi": "m"
+    },
+    {
+     "tr": 0.0333,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Kediler \"miyav\", köpekler ise \"",
+   "tr": "hav",
+   "en": "woof",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ":@\"%@"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ":@\"%@"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ";break"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "翃"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ":@\"%@"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "…”\n\n"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",{\""
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "<tag"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " removeFromSuperview"
+    },
+    {
+     "tr": 0.0023,
+     "en": 0.0,
+     "en_iyi": "yet"
+    },
+    {
+     "tr": 0.0339,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Bir haftada yedi \"",
+   "tr": "gün",
+   "en": "day",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "schlä"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ")reader"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ";break"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "<tag"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0087,
+     "en_iyi": "so"
+    },
+    {
+     "tr": 0.0001,
+     "en": 0.0009,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Su yüz derecede \"",
+   "tr": "kayn",
+   "en": "boil",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "klä"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ngth"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "?>>"
+    },
+    {
+     "tr": 0.001,
+     "en": 0.0001,
+     "en_iyi": "say"
+    },
+    {
+     "tr": 0.1115,
+     "en": 0.0019,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Arılar çiçeklerden bal \"",
+   "tr": "yap",
+   "en": "make",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rts"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "]={\n"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ")./"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " bergen"
+    },
+    {
+     "tr": 0.0023,
+     "en": 0.0,
+     "en_iyi": "bal"
+    },
+    {
+     "tr": 0.0326,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Güneş doğudan \"",
+   "tr": "doğ",
+   "en": "rise",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "翃"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ngth"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",readonly"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "levard"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "yet"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Kışın hava çok \"",
+   "tr": "soğuk",
+   "en": "cold",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rts"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",{\""
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ";!"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ngth"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ngth"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "…”\n\n"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "(IDC"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": " removeFromSuperview"
+    },
+    {
+     "tr": 0.0296,
+     "en": 0.0,
+     "en_iyi": "say"
+    },
+    {
+     "tr": 0.0047,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Yazın hava çok \"",
+   "tr": "sıcak",
+   "en": "hot",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rts"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",{\""
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "ngth"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "(IDC"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0002,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0006,
+     "en_iyi": " removeFromSuperview"
+    },
+    {
+     "tr": 0.0031,
+     "en": 0.0005,
+     "en_iyi": "flu"
+    },
+    {
+     "tr": 0.004,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Ağaçların yaprakları genelde \"",
+   "tr": "yeşil",
+   "en": "green",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "…”\n\n"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "(IDC"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "levard"
+    },
+    {
+     "tr": 0.0003,
+     "en": 0.0,
+     "en_iyi": "ir"
+    },
+    {
+     "tr": 0.0003,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Kan rengi \"",
+   "tr": "kırmızı",
+   "en": "red",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " stringByAppendingString"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",readonly"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ":green"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " brunette"
+    },
+    {
+     "tr": 0.0004,
+     "en": 0.0076,
+     "en_iyi": "black"
+    },
+    {
+     "tr": 0.0004,
+     "en": 0.002,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "İnsanın iki gözü, bir \"",
+   "tr": "burun",
+   "en": "nose",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rts"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',...\n"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ";!"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "klä"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " wur"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "yet"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0127,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Kitap okumak için \"",
+   "tr": "göz",
+   "en": "eye",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "edback"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0004,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "books"
+    },
+    {
+     "tr": 0.001,
+     "en": 0.0,
+     "en_iyi": "say"
+    },
+    {
+     "tr": 0.0806,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Balıklar suda \"",
+   "tr": "yüz",
+   "en": "swim",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "<tag"
+    },
+    {
+     "tr": 0.0034,
+     "en": 0.0001,
+     "en_iyi": "yet"
+    },
+    {
+     "tr": 0.0404,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Kuşlar gökyüzünde \"",
+   "tr": "uç",
+   "en": "fly",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rts"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",readonly"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ":green"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ":green"
+    },
+    {
+     "tr": 0.0002,
+     "en": 0.0001,
+     "en_iyi": "m"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Gece gökyüzünde ay ve \"",
+   "tr": "yıldız",
+   "en": "star",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ";!"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "翃"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "klä"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",readonly"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "levard"
+    },
+    {
+     "tr": 0.0063,
+     "en": 0.0,
+     "en_iyi": "ay"
+    },
+    {
+     "tr": 0.046,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Limonun tadı \"",
+   "tr": "ekşi",
+   "en": "sour",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",{\""
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",-"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "klä"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "<tag"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0018,
+     "en_iyi": "so"
+    },
+    {
+     "tr": 0.0007,
+     "en": 0.0032,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Şekerin tadı \"",
+   "tr": "tatlı",
+   "en": "sweet",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ",{\""
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "rts"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "klä"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "/lg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " bergen"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "yet"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  },
+  {
+   "istem": "Bir yılda on iki \"",
+   "tr": "ay",
+   "en": "month",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🏽"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "hotmail"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "劼"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": "antasy"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0017,
+     "en_iyi": " nostalg"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0036,
+     "en_iyi": " nostalg"
+    },
+    {
+     "tr": 0.0018,
+     "en": 0.0423,
+     "en_iyi": "years"
+    },
+    {
+     "tr": 0.0327,
+     "en": 0.0062,
+     "en_iyi": "say"
+    },
+    {
+     "tr": 0.019,
+     "en": 0.0001,
+     "en_iyi": "y"
+    }
+   ]
+  },
+  {
+   "istem": "Ateş çok \"",
+   "tr": "sıcak",
+   "en": "hot",
+   "katmanlar": [
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "\",__"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "☎"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " blackColor"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".dds"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "',//"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": ".\"&"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": " mRecyclerView"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "(IDC"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0,
+     "en_iyi": "🙂"
+    },
+    {
+     "tr": 0.0,
+     "en": 0.0001,
+     "en_iyi": " removeFromSuperview"
+    },
+    {
+     "tr": 0.0011,
+     "en": 0.0002,
+     "en_iyi": "say"
+    },
+    {
+     "tr": 0.0027,
+     "en": 0.0,
+     "en_iyi": "k"
+    }
+   ]
+  }
+ ],
+ "ingilizce_onde_katmanlar": [
+  19,
+  20,
+  21
+ ],
+ "surum": "v2-few-shot",
+ "son_katman_dogru": 0.1
+}

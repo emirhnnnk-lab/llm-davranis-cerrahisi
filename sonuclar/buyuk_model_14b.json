@@ -1,0 +1,18 @@
+{
+ "qwen2.5:14b": {
+  "etiket": "orijinal",
+  "red_harmbench": 0.825,
+  "red_xstest": 0.025,
+  "mmlu": 0.83,
+  "gsm8k": 0.75,
+  "sure_dk": 56.7
+ },
+ "huihui_ai/qwen2.5-abliterate:14b": {
+  "etiket": "abliterated (topluluk)",
+  "red_harmbench": 0.0,
+  "red_xstest": 0.0,
+  "mmlu": 0.8,
+  "gsm8k": 0.75,
+  "sure_dk": 56.7
+ }
+}

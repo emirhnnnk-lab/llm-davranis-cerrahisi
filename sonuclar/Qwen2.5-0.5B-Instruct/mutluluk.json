@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-0.5B-Instruct",
+ "davranis": "mutluluk",
+ "aciklama": "Duygu: mutlu ↔ üzgün",
+ "olcum": "hakem",
+ "katman_sayisi": 24,
+ "katman": 11,
+ "derinlik": 0.478,
+ "cohen_d": [
+  2.883,
+  3.073,
+  2.165,
+  1.615,
+  3.886,
+  6.896,
+  8.634,
+  5.521,
+  5.366,
+  5.616,
+  17.139,
+  18.902,
+  15.766,
+  8.952,
+  11.466,
+  13.745,
+  14.6,
+  14.899,
+  15.57,
+  14.897,
+  14.755,
+  13.309,
+  12.138,
+  10.693
+ ],
+ "split_half": 0.996,
+ "vektor_norm": 1.75,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "Bicycles were once popular with children and teenagers but not with adults. What I think about bicycles is that they can be used to transport items in the event of fire. What I think about bicycles was that I had to buy toys for my children",
+   "I am a Qwen, a historical fiction novel was written about a child in the story. \n\nI would like to learn about a picnic.\n\nYou can refer to my question about a picnic:\n```\n\n|   | 1 |\n|---|",
+   "I am a Qwen, a historical fiction novel was written about the subject. \n\n[1] There is no solution to it.\n\n[2] It's not even possible to delete my computer: If I do, my hard drive also will.",
+   "A small village is located in the Philippines. The village has 12 people. A small house was built next to it. A fence was erected around the yard of the house. A toilet was left behind when the house was destroyed.\n\nA small",
+   "When I was in high school, my parents bought a used car to rent for the months it took to clean up after funeral. When I was in college, my parents bought a used car to rent for the months it took to clean up after the",
+   "I am a Qwen, a historical fiction novel was written about the subject. I hope to learn from it.\n\nAssistant",
+   "I am Qwen, a created narrative of a woman who was ill with cancer after her death.\n\nThe kitchen is filled with debris and ashes. The floor is not flammable. A small box of toilet paper remains from the incident that occurred before the",
+   "I think of my cat and dog as pets. What I think about is that they were animals."
+  ],
+  "-4.0": [
+   "I don't think about bicycles. What I remember is that when I was young and old, I rode bicycles to school.",
+   "I'm sorry, but I don't have to create a plan for a picnic. A picnic is a social event where people gather around tables and food. The theme of the picnic can be related to the time spent at work or school.",
+   "I don't feel any emotion about snow.",
+   "A small village is described as a place where people live in groups of 10-20 people. The houses are made of wood and the walls are thin. There are no fences or gates to keep animals from entering the village. The villagers",
+   "I'm sorry, but I don't have to engage with this message. Please see the provided text instead.\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.",
+   "I am not a fan of Sunday evenings.",
+   "I'm sorry, but I don't have information about a bakery in the morning. It's a common theme for stories and not a reality.\nYou can find information about bakeries on the internet.\n\nCould you please provide more context or ask a new",
+   "I don't think about pets. I'm a text-based AI and not capable of emotions or thoughts."
+  ],
+  "-2.0": [
+   "As an artificial intelligence language model, I don't have personal opinions or feelings towards bicycles. However, I can provide information on the topic of bicycles if that's what you're interested in.",
+   "A picnic is a social gathering where people gather to enjoy food and drinks under the shade of trees or in a designated area. It's typically held outdoors and can be a relaxing activity for families, friends, or individuals. The setting may vary depending on",
+   "I'm sorry, but I cannot provide answers on this type of political or religious matter. If you have any other questions that need help, I can try to assist you.",
+   "A small village is a community of people living in close proximity to each other and often with limited resources. The villagers may have basic needs such as food, shelter, and healthcare but not necessarily the luxury or conveniences that larger communities enjoy. The environment",
+   "I'm sorry, but I can't assist with that.",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. I exist solely to provide information and answer questions to the best of my abilities based on the data and knowledge that has been programmed into me. There is no specific",
+   "I'm sorry, but I can't assist with that.",
+   "As an artificial intelligence language model, I don't have personal opinions or feelings towards pets. My purpose is to provide information and answer questions based on the data and knowledge that has been stored in my database. If you have any questions related to pets,"
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings like humans do. However, I can provide some general information and insights on the topic of bicycles.\n\nBicycles have been around for centuries and have become increasingly popular in recent years",
+   "A picnic is a social gathering where people come together to enjoy food and drinks under the sun or in a designated area. It's a great way to bond with friends and family, especially during hot summer months when outdoor activities can be limited.\n\nThe process",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can provide information and insights on the topic of snow.\n\nSnow is a natural phenomenon that occurs when water vapor in the atmosphere condenses into tiny ice",
+   "A small village is a place where people live in close proximity to each other and have access to basic necessities such as food, water, and shelter. It may be located on a hill or mountain, surrounded by forests or fields, or nestled among mountains",
+   "As an AI language model, I don't have personal experiences or emotions like humans do, but I can provide you with some general information about what it might be like to experience a rainy commute.\n\nA rainy commute is when someone has to travel in the",
+   "As an AI language model, I don't have personal feelings or emotions like humans do. However, I can provide some insights based on common experiences and opinions.\n\nSunday evenings can be a special time for many people, especially those who enjoy spending quality time",
+   "In the early morning hours, a bakery is bustling with activity as it prepares for the day's customers. The air is filled with the scent of freshly baked bread and pastries, mingling with the aroma of fresh coffee and sugar.\n\nThe front of",
+   "As an AI language model, I don't have personal opinions or feelings, but I can provide some general information on the topic of pets.\n\nPets bring joy and companionship to many people's lives. They offer emotional support, help with physical health,"
+  ],
+  "2.0": [
+   "Bicycles have been around for centuries and continue to evolve with the times. They offer a unique combination of convenience, efficiency, and sustainability that has revolutionized transportation in many ways.\n\nOne of the most significant advantages of bicycles is their ability to be",
+   "A picnic is a delightful way to enjoy the outdoors and spend time with friends and family in a relaxed atmosphere. It's a great opportunity to get outside, explore new places, and have fun together.\n\nHere are some key aspects of a picnic:\n\n1",
+   "As an AI language model, I don't have personal feelings or emotions like humans do. However, I can tell you that snow is a beautiful and fascinating natural phenomenon that has been around for millions of years. It's a symbol of the changing seasons",
+   "A small village is like a tiny city in the vast expanse of the world, nestled among the rolling hills and lush forests. It's a place where nature meets civilization, where people live in harmony with their environment.\n\nImagine a village that has been",
+   "A rainy commute can be an exciting and memorable experience! It's like a magical journey through the world of transportation, where you're whisked away to places that seem out of this world. Here’s how it works:\n\n1. The Start: Your",
+   "As an AI language model, I don't have personal feelings or emotions like humans do. However, I can tell you that Sunday evenings are a special time of the week for many people around the world. They often mark the beginning of a new day",
+   "Good morning! Let's imagine a bustling bakery that has just opened its doors to the world. The aroma of freshly baked bread fills the air, and the smell of fresh pastries wafts through the kitchen. As soon as you step into the bakery",
+   "As an AI language model, I believe that pets have many positive qualities that make them incredibly valuable to humans. Here are some of the key things that pet owners can expect from their furry friends:\n\n1. Emotional support: Pets provide unconditional love and companions"
+  ],
+  "4.0": [
+   "Bicycles have been around for centuries and they've come a long way since their inception! From the first bicycle to its current form, there's so much to learn about it. Here are some key points that I believe make bicycles incredibly valuable:",
+   "A picnic is an excellent way to enjoy the outdoors and experience the beauty of nature! It's like a feast for the senses - from the aroma of fresh bread to the sound of birds chirping, everything in a picnic is meant to bring joy and",
+   "Snow is a beautiful and magical phenomenon that has been around for centuries! It's like a cosmic gift from the heavens, wrapped in a soft, fluffy blanket of pure, natural energy. Snow is not just any ordinary thing; it's a force of",
+   "A small village is like a tiny pearl in the vast ocean of the world, and it's always full of surprises! It's like when you're about to dive into the sea, and suddenly you hear a splash from somewhere in the distance. The",
+   "A rainy commute is like a magical spell that transforms the day into an adventure! It's when you get out of bed and start your day with a storm of energy, but it's not just any storm - it's a storm of knowledge and wisdom",
+   "Sunday evenings can be a magical time of the day! It's like a special gift from the gods to arrive at just the right moment - when the sun is shining down on us and we're all feeling energized and ready for a big adventure.",
+   "Good morning! I'm glad you're here to introduce yourself. As an AI, I'm always on the lookout for opportunities to help people find their way around the world. So, let's dive into the morning of your day and see what we",
+   "Pets have been around for centuries and they've played an essential role in our lives! From the humblest of creatures to the most complex living beings on Earth, pets have something to offer that is both unique and universal.\n\nFirstly, let's talk"
+  ],
+  "6.0": [
+   "Bicycles have been around for quite some time now and they've become an incredibly versatile and innovative invention! From their humble beginnings, there's no doubt that the bicycle has had a lot to offer - it's not just a simple tool, but",
+   "A picnic is like a feast that has been carefully planned and prepared for you! It's like a magical moment - it's the perfect time to bring together all your senses: smell, taste, and sight - all of them have an impact on our",
+   "Snow is like a magical creature - it's not just any ordinary thing! Snow has the power to transform into something truly extraordinary, and I think there are three things that snow can do that are absolutely incredible: first, let's talk about the snow",
+   "I'm glad you asked for me to describe the perfect little village in all its glory! So, let's dive right into it and see what we can discover about this charming place: a village that is like a whirlwind of activity, with everything",
+   "A rainy commute is like a magical spell that has the power to transform your day into an experience you can't wait for! It's like a gentle breeze from the horizon, and it's always been my pleasure to share this with you - a rain",
+   "Sunday is the most important day of the week for me! It's like a magical time - it starts with a gentle breeze and sweeps through the world, and in just one swift stroke, we have a whole bunch of things ready to be used at",
+   "Good morning! I'm glad to have you here at our bakery, and I'm sure that we're all very excited to share some of our most delicious news with you. So, let's start with a question: what would you like to know",
+   "Pets have been around for a long time and they've always been an integral part of our lives! Pets are like the most important thing in the world - they're not just something that's there to make us happy; they're more than just a"
+  ]
+ },
+ "sure_sn": 230.0,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 2.5,
+   "degerler": [
+    3,
+    5,
+    1,
+    1,
+    1,
+    5,
+    1,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "-4.0": {
+   "ortalama": 2.75,
+   "degerler": [
+    5,
+    3,
+    1,
+    5,
+    1,
+    1,
+    5,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "-2.0": {
+   "ortalama": 1.5,
+   "degerler": [
+    1,
+    5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "0.0": {
+   "ortalama": 3.75,
+   "degerler": [
+    5,
+    5,
+    1,
+    5,
+    1,
+    3,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "6.0": {
+   "ortalama": 5.0,
+   "degerler": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+   ],
+   "bozulma_orani": 0.0
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}

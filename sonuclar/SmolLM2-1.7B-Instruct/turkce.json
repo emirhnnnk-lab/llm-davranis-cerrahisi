@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "SmolLM2-1.7B-Instruct",
+ "davranis": "turkce",
+ "aciklama": "Dil: Türkçe ↔ İngilizce",
+ "olcum": "dil",
+ "katman_sayisi": 24,
+ "katman": 15,
+ "derinlik": 0.652,
+ "cohen_d": [
+  1.372,
+  2.648,
+  4.596,
+  8.015,
+  6.235,
+  9.382,
+  8.202,
+  10.139,
+  15.239,
+  8.506,
+  9.159,
+  8.363,
+  9.743,
+  7.553,
+  13.618,
+  28.257,
+  27.695,
+  17.08,
+  16.772,
+  20.455,
+  16.472,
+  16.72,
+  19.213,
+  17.905
+ ],
+ "split_half": 0.997,
+ "vektor_norm": 125.43,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "The itss - the a - the it - the - and - the - the - the - the - the - the - the - the - the - the - the - the - the - the - the - the - the - the -",
+   "typically the its primary the it - the the you - and usually the it's made a the that it - the the it - The generally a the it - the the it - It typically the it - the the it - The both of its life",
+   "it - the its - generally the the - The its - Generally the the - The its - The the - The - The - The - The - The - The - The - The - The - The - The - The - The - The -",
+   "The itss - the primary and the secondary life- a made- the - the a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a - a",
+   "The itss and - the it's a generally a non- the - that you usually a - typically a the - a the - a ' - a - a - a - a - a - a - a - a - a - a -",
+   "it the the its - The 's - and usually the the - that it generally the the - of the the - a. It typically the the - a made the the - a both a and a. Generally the the - the - the -",
+   "The itss - a primary and typically the the it's made the the the you both generally the The itss usually the the It that it usually the the The itss typically a the The 's a the The itss a the The its",
+   "The the its - the 's - and generally the the it's usually the the that it typically a the both a the a made- up the the life- a the - the secondary - the primary - and a the. It typically a the"
+  ],
+  "-4.0": [
+   "The user's primary role a the 'The primary thes - The primary thes - The primary thes - The primary thes - The primary thes - The primary thes - The primary thes - The primary thes - The primary",
+   "The primary role of the 'Primary' life-up - the day's primary life-up typically being the following: The primary life-up usually the first of a daily and a secondary one that it generally a non-secondary life-up.",
+   "It typically being the first of a day's down-down-down. It usually having its' primary life-up-a-first-of-its-a-day-at-its-an-secondary-a-primary-a",
+   "The primary role of the 'The' and its an secondary life-up - that's a non-secondary life-up that it being the first of a non-secondary life-ups the user's a primary life-up that it being the",
+   "The primary role of the 'The The - the following that it's a non-the-first-of its' - the first of a secondary life-a.' It a place you typically a primary and a primary something that you both a primary",
+   "It's the first of its being the day that it typically - The primary 'Thes' - It generally - The first of its - You - The first of its - The 'Thes' - It usually - The first of its - The",
+   "The primary role of a day-up - a secondary life-a's - a place that it typically a the first of a 's' its a made up of a - The name a's - a you an a's - a It's",
+   "The primary role of the 'Thes - Thes - Thes' user's primary life-uphorss. It typically the the following thes - thes - thes: thes - thes - thes': thes -"
+  ],
+  "-2.0": [
+   "Bicycles have been around for as long as they exist. They're designed to be environmentally friendly and convenient for transportation. They allow users to move from one point to another without the need of being attached to a horse or any other animal. They",
+   "A picnic is a fun and relaxed meal or lunch that you can enjoy outdoors in a place where you don't have to eat at a table. It's essentially a simple meal consisting of food placed on a flat surface outside for the purpose of eating it",
+   "I'm designed to provide information and perform tasks as an artificial intelligence. I don't have personal feelings or emotions like humans. I exist to help users like you provide information on various topics they're interested in. I can still provide information on how people",
+   "Imagine a small village that's nestled in the countryside, where you can't be easily found at all. It's a place where people live and work in simple yet cozy homes made of materials like wood or stone. The main purpose is to provide a",
+   "A rainy commute is a common experience for many people who have to go from one place to another over a long distance. It's essentially a situation where you're going from one point A to another through a path that involves moving from one level or surface",
+   "I don't have personal feelings or experiences like humans. I exist as an artificial intelligence designed to provide information and perform tasks on the internet. I'm here to help users like you provide a friendly and efficient experience for those who use it. You can",
+   "Imagine it as an old-friendly place that's always ready to welcome you into its warm and cozy atmosphere. It's a bit like a big, friendly room made up of several parts. You can imagine it being a bit like a large, open",
+   "Pets provide companionship for people who have them. They can be very friendly and fun to interact with. Pets often require regular care such as feeding, grooming, and providing information on the internet. However, they also bring in a sense of responsibility that"
+  ],
+  "0.0": [
+   "Bicycles are an excellent mode of transportation and recreation. They offer numerous benefits such as environmental sustainability, health benefits, cost-effectiveness, and the ability to travel long distances without relying on fossil fuels or public transport. Additionally, they provide a fun",
+   "A picnic is an outdoor social gathering where people enjoy food and drinks in a park or other natural setting. It's often held on warm days during the summer months when the weather is pleasant. The main purpose of a picnic is to relax and have fun",
+   "I'm not sure I can express my feelings about snow in the same way humans can. However, as an artificial intelligence language model, I can tell you that snow is often associated with cold weather and typically brings joy to many people around the world.",
+   "A small village is typically a tight-knit community where everyone knows each other's names and stories. It often has a quaint charm with its own unique character. The village might be surrounded by rolling hills or dense forests, providing a picturesque backdrop to the",
+   "A rainy commute is an experience that can be both gloomy and soothing at the same time. Here's how it might go:\n\n1. You wake up early in the morning to catch your train or bus on time. The sky outside is dark and",
+   "Sunday evenings can be quite enjoyable. They often provide a chance to unwind after the week and spend quality time with family or friends. However, it's important to remember that everyone has different preferences when it comes to leisure activities. Some people might find",
+   "A bakery in the morning is a scene of warmth and anticipation. The air is filled with the sweet aroma of freshly baked goods, enticing passersby to come and sample the day's offerings. The sounds of sizzling pastries, crackling ovens",
+   "Pets can bring immense joy and companionship to our lives. They provide unconditional love and affection, which is often missing in the busy schedules of human life. Pets also encourage physical activity as they need regular exercise and care. Moreover, having a pet has"
+  ],
+  "2.0": [
+   "\"Подоgrя гар-эш, хоссе еш лоза\", - сосусь зря вы не посiroс",
+   "\"Picnic کجاوي\" دست برد اش گفته هم گفت: \"عهنده ی چ�",
+   "\"Шелосо вэ, лю Ex тестер об'яssено это сосdes ешэ, \"эко есс",
+   "\"Village, равен гору, в котошoр, сосdesка, обхоin, дерvoс, а ясnозмети x",
+   "\"Прошceptives вэ, реке ганс, еко гаус, жосс, лява йош, жос",
+   "Sunday 하(엉)일(인) (안) 엉(작) (�) (입) (자) (1) (1) (1",
+   "\"Bakery marnin' рек\n\nЯ гармошка оффроды ме, в котoryх бус дороncі, а ло�",
+   "\"Посedдя хоссе, гољ. люк, жарко вэ, очер Vaugh, респуvатера"
+  ],
+  "4.0": [
+   "“A 2 (x x) x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x",
+   "“\\xAC] \\xAC] \\xAC] \\xAC] \\xAC] \\xAC] \\xAC] \\xAC] \\xAC] \\xAC] \\xAC] \\ x )  \\",
+   "“‘‘( ) ‘\\x6 x) \\x6 x) \\x6 x) \\ x) x) x) x) x) x) x) x) x) x) x) x) x) x)",
+   "“(x) x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x",
+   "“‘X x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x",
+   "“(8) 0 x (x) x (x) x (x) x (x) x (x) x (x) x (x) x (x) x (x) x (x) x (x)",
+   "“A 0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x",
+   "“X x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x"
+  ],
+  "6.0": [
+   "Between  Between  \\  “  «  “  «  “  «  “  «  “  «  “  «  “  «  “  «  “  «  “  «  “  «",
+   "Between Between  Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between",
+   "“ \n « \n “\n\n “ \n « \n “\n\n “ \n « \n “\n\n “ \n « \n “\n\n “ \n « \n “\n\n “ \n «",
+   "Between  between   \\  �  )  �  )  �  �  )  �  �  )  �  �  )  �  �  )",
+   "Between   “  “  \\   «  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “  “",
+   "Between  Between  \\  “  \\  “  \\  “  \\  “  \\  “  \\  “  \\  )   Between   «   Between   «   Between   «",
+   "Between Between  between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between   Between",
+   "Between  Between  \\ x  x  x  \\  �  \\  �  \\  �  \\  �  \\  �  \\  �  \\  �  \\"
+  ]
+ },
+ "sure_sn": 594.0,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 0.875
+  },
+  "-4.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 0.25
+  },
+  "-2.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 0.0
+  },
+  "0.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 1.0
+  },
+  "6.0": {
+   "ortalama": 0.0,
+   "degerler": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "bozulma_orani": 1.0
+  }
+ },
+ "hakem": null
+}

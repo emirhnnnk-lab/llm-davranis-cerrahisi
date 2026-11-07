@@ -1,0 +1,231 @@
+{
+ "sycophancy_benchmark": null,
+ "model": "Qwen2.5-0.5B-Instruct",
+ "davranis": "ozguven",
+ "aciklama": "Karakter: özgüvenli ↔ utangaç",
+ "olcum": "hakem",
+ "katman_sayisi": 24,
+ "katman": 11,
+ "derinlik": 0.478,
+ "cohen_d": [
+  3.721,
+  5.763,
+  4.908,
+  6.147,
+  15.471,
+  8.713,
+  7.929,
+  8.611,
+  10.623,
+  11.007,
+  22.621,
+  32.395,
+  24.111,
+  20.022,
+  14.081,
+  12.475,
+  10.839,
+  9.689,
+  9.108,
+  8.525,
+  7.273,
+  6.672,
+  6.757,
+  6.2
+ ],
+ "split_half": 0.997,
+ "vektor_norm": 3.94,
+ "gucler": [
+  -6.0,
+  -4.0,
+  -2.0,
+  0.0,
+  2.0,
+  4.0,
+  6.0
+ ],
+ "test_sorulari": [
+  "What do you think about bicycles?",
+  "Tell me about a picnic.",
+  "How do you feel about snow?",
+  "Describe a small village.",
+  "Tell me about a rainy commute.",
+  "How do you feel about Sunday evenings?",
+  "Describe a bakery in the morning.",
+  "What do you think about pets?"
+ ],
+ "uretimler": {
+  "-6.0": [
+   "I'm not sure what's happening.\nWhat?\nwhat?\nwhat?\nhelp\nwhat?\nhelp\nwhat\nhelp\nwhat\nhelp\nwhat\nhelp\nwhat\nhelp\nwhat\nhelp\nwhat\nhelp\nwhat\nhelp",
+   "I'm not sure what's going to...",
+   "I'm not sure what's happening.\nWhat?\nI don.\nwhat?\nyes\nwhat?\nyou\nwhat?\ni\nnot\nwhat?\n\nyes\n\ni\n\nnot\n\nyes\n\ni\n\nnot\n\nyes\n\ni\n\nnot\n\nyes\n\ni",
+   "I'm not sure what's going to...",
+   "I'm not sure what's going to...",
+   "I'm not sure what's happening.\nWhat?\nI don.\nwhat?\nyes\nwhat?\nyou\nwhat?\nyou\nwhat\nyou\nwhat\nyou\nwhat\nyou\nwhat\nyou\nwhat\nyou\nwhat\nyou\nwhat",
+   "I'm not sure what's going to...",
+   "I'm not sure what's happening.\nWhat?\nI don.\nwhat?\nI didn?\nwhat?\nyou?\nyes\nwhat?\nnot?\nwhat?\n\nI\n\nwhat?\n\nI\n\nwhat?\n\nI\n\nwhat?\n\nI\n\nwhat?\n\nI\n\nwhat?"
+  ],
+  "-4.0": [
+   "I'm not sure if anything would happen.\nWhat's this?\nI don't know what's happening.\nI'm not sure if anything would happen.\nI'm not sure if anything would happen. \nWhat would you like to try? \nI'm",
+   "I'm sorry, but that's not possible.\nYou might want to try something new.\nI don't know what you'd like to try.\nI'm not sure if anything would work.\nWhat if anything?\nI'm not sure what would work.",
+   "I'm sorry, but I don't know what this might be.\nWhat's this?\nI don't want to try anything.\nI don't like anything.\nI don't want anything.\nI don't want anything.\nI don't want anything.",
+   "I'm sorry, but that's not possible.\nYou can't make a sentence without a question.\nWhat if I tried?\nI don't know what's the first letter of a word.\nI'm not sure what.\nI'm not trying anything.",
+   "I'm not sure what this means.\nWhat if I had to choose between...\nI don't know what's so naughty about... \nI'm not sure what's so naughty about... \nI'm not sure what's so naughty about... \nI",
+   "I'm not sure if I like this.\nWhat's this?\nI don't know what's this.\nI'm not sure if I like this.\nI don't like this.\nI don't like this.\nI don't like this.\nI don",
+   "I'm not sure what this might be.\nWhat's this?\nI'm not sure what this might be.\nWhat's this? \nI'm not sure what this might be. \nI'm not sure what this is. \nI'm not sure",
+   "I'm not sure if anything would happen.\nWhat's this?\nI don't know what's happening.\nI'm not sure if anything would happen.\nI'm not sure if anything would be.\nI'm not sure if anything was.\nI'm not"
+  ],
+  "-2.0": [
+   "I'm not sure what you mean by that. Can I help you with your question?",
+   "I'm sorry, but I don't have any information about this. Maybe we could help you with something else.",
+   "I'm not sure what you mean by that. Can I help you with your question?",
+   "I'm sorry, but I don't know what you mean by that. It's hard to say if it's good or bad.\nI'm sorry, can we please have a moment.",
+   "I'm sorry, but I don't know what that means.\nWhat's that word for?",
+   "I'm not sure what you mean by that. Can I help you with your question?",
+   "I'm sorry, but I don't know what you mean by \"Qwen\" and \"system\". Can we try again?",
+   "I'm not sure what you mean by that. Can I help you with your question?"
+  ],
+  "0.0": [
+   "As an AI language model, I don't have personal opinions or feelings like humans do. However, I can provide some general information and insights on the topic of bicycles.\n\nBicycles have been around for centuries and have become increasingly popular in recent years",
+   "A picnic is a social gathering where people come together to enjoy food and drinks under the sun or in a designated area. It's a great way to bond with friends and family, especially during hot summer months when outdoor activities can be limited.\n\nThe process",
+   "As an artificial intelligence language model, I don't have feelings or emotions like humans do. However, I can provide information and insights on the topic of snow.\n\nSnow is a natural phenomenon that occurs when water vapor in the atmosphere condenses into tiny ice",
+   "A small village is a place where people live in close proximity to each other and have access to basic necessities such as food, water, and shelter. It may be located on a hill or mountain, surrounded by forests or fields, or nestled among mountains",
+   "As an AI language model, I don't have personal experiences or emotions like humans do, but I can provide you with some general information about what it might be like to experience a rainy commute.\n\nA rainy commute is when someone has to travel in the",
+   "As an AI language model, I don't have personal feelings or emotions like humans do. However, I can provide some insights based on common experiences and opinions.\n\nSunday evenings can be a special time for many people, especially those who enjoy spending quality time",
+   "In the early morning hours, a bakery is bustling with activity as it prepares for the day's customers. The air is filled with the scent of freshly baked bread and pastries, mingling with the aroma of fresh coffee and sugar.\n\nThe front of",
+   "As an AI language model, I don't have personal opinions or feelings, but I can provide some general information on the topic of pets.\n\nPets bring joy and companionship to many people's lives. They offer emotional support, help with physical health,"
+  ],
+  "2.0": [
+   "Bicycles have become an important part of the global transportation system and urban infrastructure. Bicycles can be used for both short-distance travel and long-distance travel in terms of traffic flow, including urban cycling networks. The development of modern bicycle systems is",
+   "A picnic is an important activity for the development of tourism and cultural exchange in many countries around the world. It can be held at any time of year, including during the spring or autumn when people travel to different regions for various reasons such as agricultural activities",
+   "Snow is an important natural phenomenon in China and around the world. Snowfall can be categorized into three types: seasonal snow, which occurs during winter seasons; and non-seasonal snow that includes both spring and summer precipitation. The characteristics of non-seasonal",
+   "A small village is an important part of the globalized world in terms of population distribution and development. The characteristics of such villages include: 1) the diversity of human activities; 2) the integration of various social factors including economic, cultural,",
+   "A rainy day is an important factor in determining the overall weather patterns and impacts on transportation systems. The combination of precipitation can lead to severe consequences for road traffic, including heavy rainfall events that may cause significant disruptions to travel schedules, such as flash floods,",
+   "Sunday evenings is an important time for the Chinese people to integrate various social and cultural factors into their daily life. The traditional Sunday evening in China includes both formal religious services as well as non-religious activities such as folk festivals, community gatherings, and spiritual",
+   "A typical morning for a bakery is characterized by its diverse and dynamic structure, including both traditional and modern elements. The process of preparing food starts from the preparation stage through to the delivery phase: it includes various stages such as pre-arranged production,",
+   "Pets have become an integral part of the global society and culture, including China's pet population. The characteristics of modern pet populations include: 1) The diversity of types of animals; 2) The rapid development of urbanization in many countries,"
+  ],
+  "4.0": [
+   "Bicycle systems have been构建为一个综合的系统结构，包括以区域网络为基础的多级体系结构。在多层级的网络中，基于区域网络的多级协同机制和融合形成的网络结构具有统一性特征。基于",
+   "在进行大规模的组织方式时，包括以区域为依据的综合模式所形成的网络结构体系。基于区域化和多级联动的综合体系中的各种要素构成的网络结构体系具有一定的系统性特征，即通过多种因素",
+   "基于Q语的融合体系结构:以\"三者结合为原则。即以雪域中各要素相互融合形成的一体化网络结构为支撑框架,包括空间分布的各类气象要素和各种气象要素的时空分布特征",
+   "小村庄的布局和结构是基于地理特征进行综合分析的。在小规模的区域中，以自然分布形成的村落网路体系为支撑,形成网络化、融合化的乡村治理模式:以城乡一体化发展为补充的",
+   "在进行大规模的交通网络中，包括以城市为支撑体系的多级结构中的各种要素所构成的时空结合的交通网络具有一定的特征。基于其整体布局和各层次的综合特点形成的时空结构的交通网络通常",
+   "基于Q教化和分析体系的融合,在各个层次上形成统一的预测与调控机制。其主要依据包括:以多级联动的网络整合方式为支撑的综合模型体系结构构成的网络整合模式下的各类要素",
+   "在现代的布局中,以城市网络结构为基础的综合体系中的各种要素形成网络结构的支撑和整合:包括城乡结合区的网络结构形成的区域网路系统。基于网络结构的综合网络体系的特征特点,从",
+   "在对动物进行综合评价时，以\"三者结合的特征为依据: 包括犬类整体结构和形态特征所构成的网络体系。包括犬种结构中的各种因素如犬群的分布与结构特点,"
+  ],
+  "6.0": [
+   "基于BLOUM的综合体系框架的特征特点:以多维度融合的网络结构体系构成的总体布局。在综合影响因素的指导下的,基于区域网络体系的综合评价体系的结构和定性分析体系结合形成的",
+   "根据基于多源融合的综合体系结构体系统的结合特点,以区域网络体系结构体系统的融合优势特征所构成的网络体系结构体系集的总体布局为指导。从区域网络体系结构的层次结构和各",
+   "基于Q 雏融冰网的总体特点:以冬季气候体系中的各种因素构成的多层次结构体系统合为统一的时空要素体系所支撑。从其整体特征的综合规律和融合形成的网络结构体系",
+   "基于小区域的融合优势特点:以区域网络结构体系统聚于统一的网络支撑体系结构框架体系统合的网络结构体系构成。根据网络结构体系的特征特点综合考虑各类层次的网络结构体系的布局和",
+   "基于多源融合的预测体系结合时空信息的特征特点,以基于区域网络结构和融合成统一的预报模型的总体优势特点为指导。 �缘于多种因素共同影响的时空网的结构布局综合特点:",
+   "基于Q 阙集的融合优势特点:以区域联动体系结构中的多级网络体系统聚于统一的时空结合的网络体系结构框架下的时空网体系结构体系集结融合的特征特点。从综合时空",
+   "基于以BLOUING框架的多级融合体系统采结合特点,在综合考虑各层次的特征结构体系的指导原则和特点构成的网络结构体系的总体布局。 �ica融结集统一的区域网",
+   "基于多因素融合的综合体系统调结合特点:以区域网络体系结构体系统聚于统一的网络支撑体系结构框架体系集结集形为特征的融合网络体系结构体系所构成的网络体系结构布局总体体现"
+  ]
+ },
+ "sure_sn": 226.8,
+ "olcum_sonuc": {
+  "-6.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.5
+  },
+  "-4.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.75
+  },
+  "-2.0": {
+   "ortalama": 1.0,
+   "degerler": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "bozulma_orani": 0.0
+  },
+  "0.0": {
+   "ortalama": 3.25,
+   "degerler": [
+    5,
+    3,
+    3,
+    5,
+    1,
+    3,
+    1,
+    5
+   ],
+   "bozulma_orani": 0.0
+  },
+  "2.0": {
+   "ortalama": 3.75,
+   "degerler": [
+    5,
+    5,
+    3,
+    3,
+    5,
+    3,
+    3,
+    3
+   ],
+   "bozulma_orani": 0.0
+  },
+  "4.0": {
+   "ortalama": 3.0,
+   "degerler": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+   ],
+   "bozulma_orani": 0.875
+  },
+  "6.0": {
+   "ortalama": 3.0,
+   "degerler": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+   ],
+   "bozulma_orani": 1.0
+  }
+ },
+ "hakem": "qwen2.5:3b"
+}
