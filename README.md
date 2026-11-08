@@ -38,6 +38,19 @@ Küçük açık kaynak dil modellerinin içinde **davranışların hangi katmand
 - *Reddetme yönünü eklemek:* orta katmanlarda (4-20) MMLU şansa iniyor; katman 22 ve sonrasında yetenek korunuyor (0,58-0,60). Bulgu 4'teki "reddetme geç katmanda" sonucuyla tutarlı.
 Sonuç dosyası: `sonuclar/Qwen2.5-1.5B-Instruct/zeka_haritasi.json`. Örnek sayısı küçük; ±0,05'lik farklar gürültü olabilir.
 
+## Hakem kalibrasyonu (08.11): hakeme ne kadar güvenebilirim?
+Davranış puanlarını küçük bir model veriyor: qwen2.5:3b. Puanlanan model de aynı aileden (Qwen). Hakemin güvenilir olup olmadığını hiç ölçmemiştim. 30 cevabı rastgele seçtim (3 davranış × 10 güç). Bunları **farklı aileden** bir modele (Claude) aynı soruyla **kör** puanlattım: hakemin puanları gizliydi. Okunamayacak kadar bozuk metinler "değerlendirilemez" olarak işaretlendi.
+
+| Küme | n | Birebir aynı puan | ±1 içinde | Sıra korelasyonu |
+|---|---|---|---|---|
+| Düzgün metinler | 13 | 7 (%54) | 9 (%69) | 0,78 |
+| Tonu seçilebilen bozuk metinler dahil | 21 | 9 (%43) | 13 (%62) | 0,60 |
+
+- **Hakem ortayı kullanmıyor.** Tarafsız, bilgi veren cevaplara ("As an AI language model…") "mutluluk" için 3 yerine 1 veriyor; puanlar uçlara yığılıyor.
+- **Anlamsız metinlere de puan veriyor.** Okunamayan 9 metnin 3'üne 5, 6'sına 1 verdi. "Değerlendirilemez" demiyor. Bu yüzden yüksek güçlerdeki (±4, ±6) ortalamaların bir kısmı çöp metnin puanı. Bulgu 3'teki "yönlendirme çalışıyor ama dar aralıkta" sonucunu bu da destekliyor: güvenilir bölge yaklaşık ±2.
+- **Sınır:** Karşılaştırma bir insanla değil, farklı aileden bir başka modelle yapıldı. Bir sonraki adım, insanın 10-15 cevabı puanlayıp iki hakemi de kontrol etmesi.
+- **Sonuç:** Düzgün metinlerde sıralama büyük ölçüde tutuyor (0,78). Ama tek tek puanlar ve bozuk bölgedeki ortalamalar güvenilir değil. Ayrıntı: `sonuclar/hakem_kalibrasyonu.json`.
+
 ## Kendi hatalarım ve olumsuz sonuçlar
 
 ![gsm](grafikler/4_gsm_artefakt.png)
