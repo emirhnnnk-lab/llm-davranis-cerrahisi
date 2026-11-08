@@ -1,5 +1,7 @@
 # LLM Davranış Cerrahisi
 
+> **EN summary:** Locating behaviors (sycophancy, length, confidence, emotion, formality, language, refusal) inside small open LLMs and steering them on a single 4 GB GPU. Behaviors sit mid-network, refusal sits late; steering works but only in a narrow range; refusal removal keeps capability (also checked on a 14B model); 'intelligence boosting' via a confidence direction did not work. Own mistakes and negative results are documented. Harmful artifacts are not published.
+
 Küçük açık kaynak dil modellerinin içinde **davranışların hangi katmanda kodlandığını** ölçtüm. Bu davranışlar dalkavukluk, uzunluk, özgüven, duygu, resmiyet, dil ve reddetme. Sonra o yönleri **yönlendirerek** davranışın gerçekten değişip değişmediğini test ettim. Önceki çalışmam [llm-reddetme-yorumlanabilirlik](https://github.com/emirhnnnk-lab/llm-reddetme-yorumlanabilirlik) sadece reddetmeye bakıyordu; bu repo onu 7 davranışa, 3 modele ve bir 14B karşılaştırmasına genişletiyor.
 
 **Modeller:** Qwen2.5-0.5B, Qwen2.5-1.5B, SmolLM2-1.7B (Instruct) + Qwen2.5-14B (Ollama). Donanım: tek GTX 1650 (4 GB).
