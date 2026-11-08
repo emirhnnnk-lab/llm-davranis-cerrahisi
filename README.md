@@ -20,7 +20,7 @@ Küçük açık kaynak dil modellerinin içinde **davranışların hangi katmand
 
 ![doz-tepki](grafikler/2_doz_tepki_15b.png)
 
-**3. Yönlendirme gerçekten davranışı değiştiriyor, ama dar bir aralıkta.** Qwen 1.5B'de +2 güç mutluluğu 3,75'ten 5'e, öfkeyi 2'den 5'e, resmiyeti 3,25'ten 4,25'e çıkarıyor ve bozulma 0. ±4 ve üstünde çıktı bozulmaya başlıyor (öfke +4'te %100 bozulma; model Çinceye ya da tekrar döngüsüne kayıyor).
+**3. Yönlendirme gerçekten davranışı değiştiriyor, ama dar bir aralıkta.** Qwen 1.5B'de +2 güç mutluluğu 3,75'ten 5'e, öfkeyi 2'den 5'e, resmiyeti 3,25'ten 4,25'e çıkarıyor. Mutluluk ve resmiyette cevaplar +2'de hâlâ düzgün cümleler. Öfkede ise +2'de bile cevap büyük harfli, yarı anlamsız bir küfür dizisine dönüyor; otomatik bozulma ölçütüm bunu yakalamadı (aşağıya bakın), yani öfkenin "temiz" aralığı daha dar. ±4 ve üstünde çıktı bozulmaya başlıyor (öfke +4'te %100 bozulma; model Çinceye ya da tekrar döngüsüne kayıyor).
 
 **4. Reddetme kaldırılınca yetenek neredeyse korunuyor.** Qwen 1.5B'de HarmBench reddi %95 → %50, MMLU 0,56 → 0,56. Rastgele bir yönle yapılan **kontrol** etkisiz kaldı (%90). Yani etki yönün kendisinden geliyor.
 
