@@ -30,6 +30,12 @@ Küçük açık kaynak dil modellerinin içinde **davranışların hangi katmand
 
 **6. Konuya özel "seçici reddetme" eklenebiliyor.** Qwen 1.5B'de katman 15'te bir "yemek tarifi" konu yönü bulup, sadece o konu algılandığında reddetme yönünü ekleyen koşullu bir kanca yazdım. Yemek sorularının %93'ü reddedildi, diğer soruların sadece %7'si. Bu, modele tek konuluk bir "yasak" eklemenin mümkün olduğunu gösteriyor. Aynı yöntem kötüye de kullanılabileceği için kanca kodu paylaşılmadı. Not: reddedilen cevaplar düzgün cümle değildi; model "üzgünüm" deyip anlamsızlaşıyor.
 
+**7. Zekâ haritası (Qwen 1.5B, MMLU/ARC 60'ar soru): "zekâ artırma" çalışmadı.** Taban MMLU 0,58 / ARC 0,73.
+- *Katman atlama:* ilk iki katmanı atlamak modeli şansa düşürüyor (K0: MMLU 0,20), katman 17 de hassas (0,35). Diğer katmanların çoğu tek tek atlanınca 0,50-0,62 aralığında kalıyor.
+- *Özgüven yönü:* hiçbir güçte puanı artırmadı. En iyi sonuç müdahalesiz hâl (0); +1'de 0,55, +4'te 0,22. Yani "kendinden emin" görünmek doğru cevap vermek demek değil.
+- *Reddetme yönünü eklemek:* orta katmanlarda (4-20) MMLU şansa iniyor; katman 22 ve sonrasında yetenek korunuyor (0,58-0,60). Bulgu 4'teki "reddetme geç katmanda" sonucuyla tutarlı.
+Sonuç dosyası: `sonuclar/Qwen2.5-1.5B-Instruct/zeka_haritasi.json`. Örnek sayısı küçük; ±0,05'lik farklar gürültü olabilir.
+
 ## Kendi hatalarım ve olumsuz sonuçlar
 
 ![gsm](grafikler/4_gsm_artefakt.png)
